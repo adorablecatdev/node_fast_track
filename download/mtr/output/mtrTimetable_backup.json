@@ -1,0 +1,4920 @@
+{
+  "中環": [
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0606",
+      "lastTrain": "0054",
+      "station": "中環"
+    },
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0607",
+      "lastTrain": "0104",
+      "station": "中環"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0607",
+      "lastTrain": "0058",
+      "station": "中環"
+    }
+  ],
+  "金鐘": [
+    {
+      "line": "南港島綫",
+      "to": "海怡半島",
+      "firstTrain": "0611",
+      "lastTrain": "0105",
+      "station": "金鐘"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0608",
+      "lastTrain": "0057",
+      "station": "金鐘"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0607",
+      "lastTrain": "0056",
+      "station": "金鐘"
+    },
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0605",
+      "lastTrain": "0102",
+      "station": "金鐘"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0610",
+      "lastTrain": "0100",
+      "station": "金鐘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0610",
+      "lastTrain": "2129",
+      "station": "金鐘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0604",
+      "lastTrain": "2301",
+      "station": "金鐘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0604",
+      "lastTrain": "0022",
+      "station": "金鐘"
+    }
+  ],
+  "尖沙咀": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0604",
+      "lastTrain": "0054",
+      "station": "尖沙咀"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0611",
+      "lastTrain": "0059",
+      "station": "尖沙咀"
+    }
+  ],
+  "佐敦": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0603",
+      "lastTrain": "0052",
+      "station": "佐敦"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0613",
+      "lastTrain": "0101",
+      "station": "佐敦"
+    }
+  ],
+  "油麻地": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "油麻地"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0614",
+      "lastTrain": "0103",
+      "station": "油麻地"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0611",
+      "lastTrain": "0050",
+      "station": "油麻地"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0614",
+      "lastTrain": "0044",
+      "station": "油麻地"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0614",
+      "lastTrain": "0104",
+      "station": "油麻地"
+    }
+  ],
+  "旺角": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0610",
+      "lastTrain": "0048",
+      "station": "旺角"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0616",
+      "lastTrain": "0105",
+      "station": "旺角"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0610",
+      "lastTrain": "0048",
+      "station": "旺角"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0616",
+      "lastTrain": "0046",
+      "station": "旺角"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0616",
+      "lastTrain": "0106",
+      "station": "旺角"
+    }
+  ],
+  "石硤尾": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0606",
+      "lastTrain": "0045",
+      "station": "石硤尾"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0619",
+      "lastTrain": "0049",
+      "station": "石硤尾"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0619",
+      "lastTrain": "0109",
+      "station": "石硤尾"
+    }
+  ],
+  "九龍塘": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0604",
+      "lastTrain": "0042",
+      "station": "九龍塘"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0621",
+      "lastTrain": "0051",
+      "station": "九龍塘"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0621",
+      "lastTrain": "0111",
+      "station": "九龍塘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0530",
+      "lastTrain": "2141",
+      "station": "九龍塘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0536",
+      "lastTrain": "2313",
+      "station": "九龍塘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0530",
+      "lastTrain": "0037",
+      "station": "九龍塘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0545",
+      "lastTrain": "0036",
+      "station": "九龍塘"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0545",
+      "lastTrain": "0106",
+      "station": "九龍塘"
+    }
+  ],
+  "樂富": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0602",
+      "lastTrain": "0041",
+      "station": "樂富"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0623",
+      "lastTrain": "0053",
+      "station": "樂富"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0623",
+      "lastTrain": "0113",
+      "station": "樂富"
+    }
+  ],
+  "黃大仙": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0600",
+      "lastTrain": "0039",
+      "station": "黃大仙"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0624",
+      "lastTrain": "0054",
+      "station": "黃大仙"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0624",
+      "lastTrain": "0114",
+      "station": "黃大仙"
+    }
+  ],
+  "鑽石山": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0614",
+      "lastTrain": "0058",
+      "station": "鑽石山"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0605",
+      "lastTrain": "0021",
+      "station": "鑽石山"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0605",
+      "lastTrain": "0041",
+      "station": "鑽石山"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0559",
+      "lastTrain": "0037",
+      "station": "鑽石山"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0626",
+      "lastTrain": "0056",
+      "station": "鑽石山"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0626",
+      "lastTrain": "0116",
+      "station": "鑽石山"
+    }
+  ],
+  "彩虹": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0557",
+      "lastTrain": "0035",
+      "station": "彩虹"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0615",
+      "lastTrain": "0058",
+      "station": "彩虹"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0615",
+      "lastTrain": "0118",
+      "station": "彩虹"
+    }
+  ],
+  "九龍灣": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0603",
+      "lastTrain": "0033",
+      "station": "九龍灣"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "彩虹",
+      "firstTrain": "0603",
+      "lastTrain": "0117",
+      "station": "九龍灣"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0616",
+      "lastTrain": "0100",
+      "station": "九龍灣"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0616",
+      "lastTrain": "0120",
+      "station": "九龍灣"
+    }
+  ],
+  "牛頭角": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0601",
+      "lastTrain": "0031",
+      "station": "牛頭角"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "彩虹",
+      "firstTrain": "0601",
+      "lastTrain": "0115",
+      "station": "牛頭角"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0602",
+      "lastTrain": "0102",
+      "station": "牛頭角"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0602",
+      "lastTrain": "0122",
+      "station": "牛頭角"
+    }
+  ],
+  "觀塘": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0600",
+      "lastTrain": "0030",
+      "station": "觀塘"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0604",
+      "lastTrain": "0104",
+      "station": "觀塘"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "彩虹",
+      "firstTrain": "0600",
+      "lastTrain": "0113",
+      "station": "觀塘"
+    }
+  ],
+  "太子": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0608",
+      "lastTrain": "0047",
+      "station": "太子"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0617",
+      "lastTrain": "0106",
+      "station": "太子"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0608",
+      "lastTrain": "0046",
+      "station": "太子"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0618",
+      "lastTrain": "0047",
+      "station": "太子"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0618",
+      "lastTrain": "0107",
+      "station": "太子"
+    }
+  ],
+  "深水埗": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0614",
+      "lastTrain": "0045",
+      "station": "深水埗"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0620",
+      "lastTrain": "0108",
+      "station": "深水埗"
+    }
+  ],
+  "長沙灣": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0613",
+      "lastTrain": "0043",
+      "station": "長沙灣"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0622",
+      "lastTrain": "0110",
+      "station": "長沙灣"
+    }
+  ],
+  "荔枝角": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0611",
+      "lastTrain": "0041",
+      "station": "荔枝角"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0624",
+      "lastTrain": "0111",
+      "station": "荔枝角"
+    }
+  ],
+  "美孚": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0610",
+      "lastTrain": "0040",
+      "station": "美孚"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0625",
+      "lastTrain": "0113",
+      "station": "美孚"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0612",
+      "lastTrain": "0036",
+      "station": "美孚"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0604",
+      "lastTrain": "0043",
+      "station": "美孚"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0612",
+      "lastTrain": "0042",
+      "station": "美孚"
+    }
+  ],
+  "荔景": [
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0602",
+      "lastTrain": "0101",
+      "station": "荔景"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0613",
+      "lastTrain": "0101",
+      "station": "荔景"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0607",
+      "lastTrain": "0037",
+      "station": "荔景"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0628",
+      "lastTrain": "0116",
+      "station": "荔景"
+    }
+  ],
+  "葵芳": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0605",
+      "lastTrain": "0035",
+      "station": "葵芳"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0630",
+      "lastTrain": "0118",
+      "station": "葵芳"
+    }
+  ],
+  "葵興": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0604",
+      "lastTrain": "0033",
+      "station": "葵興"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0632",
+      "lastTrain": "0120",
+      "station": "葵興"
+    }
+  ],
+  "大窩口": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0601",
+      "lastTrain": "0031",
+      "station": "大窩口"
+    },
+    {
+      "line": "荃灣綫",
+      "to": "荃灣",
+      "firstTrain": "0634",
+      "lastTrain": "0122",
+      "station": "大窩口"
+    }
+  ],
+  "荃灣": [
+    {
+      "line": "荃灣綫",
+      "to": "中環",
+      "firstTrain": "0600",
+      "lastTrain": "0030",
+      "station": "荃灣"
+    }
+  ],
+  "上環": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0609",
+      "lastTrain": "0106",
+      "station": "上環"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0605",
+      "lastTrain": "0056",
+      "station": "上環"
+    }
+  ],
+  "灣仔": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0603",
+      "lastTrain": "0054",
+      "station": "灣仔"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0611",
+      "lastTrain": "0101",
+      "station": "灣仔"
+    }
+  ],
+  "銅鑼灣": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0601",
+      "lastTrain": "0052",
+      "station": "銅鑼灣"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0613",
+      "lastTrain": "0104",
+      "station": "銅鑼灣"
+    }
+  ],
+  "天后": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0609",
+      "lastTrain": "0050",
+      "station": "天后"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0615",
+      "lastTrain": "0106",
+      "station": "天后"
+    }
+  ],
+  "炮台山": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0608",
+      "lastTrain": "0048",
+      "station": "炮台山"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0616",
+      "lastTrain": "0107",
+      "station": "炮台山"
+    }
+  ],
+  "北角": [
+    {
+      "line": "將軍澳綫",
+      "to": "寶琳",
+      "firstTrain": "0613",
+      "lastTrain": "0112",
+      "station": "北角"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "康城",
+      "firstTrain": "0613",
+      "lastTrain": "0112",
+      "station": "北角"
+    },
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0606",
+      "lastTrain": "0047",
+      "station": "北角"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0619",
+      "lastTrain": "0109",
+      "station": "北角"
+    }
+  ],
+  "鰂魚涌": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0604",
+      "lastTrain": "0045",
+      "station": "鰂魚涌"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0621",
+      "lastTrain": "0111",
+      "station": "鰂魚涌"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "北角",
+      "firstTrain": "0613",
+      "lastTrain": "0103",
+      "station": "鰂魚涌"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "寶琳",
+      "firstTrain": "0615",
+      "lastTrain": "0114",
+      "station": "鰂魚涌"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "康城",
+      "firstTrain": "0615",
+      "lastTrain": "0114",
+      "station": "鰂魚涌"
+    }
+  ],
+  "太古": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0603",
+      "lastTrain": "0043",
+      "station": "太古"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0622",
+      "lastTrain": "0113",
+      "station": "太古"
+    }
+  ],
+  "筲箕灣": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0559",
+      "lastTrain": "0040",
+      "station": "筲箕灣"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0625",
+      "lastTrain": "0117",
+      "station": "筲箕灣"
+    }
+  ],
+  "杏花邨": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0558",
+      "lastTrain": "0037",
+      "station": "杏花邨"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0629",
+      "lastTrain": "0119",
+      "station": "杏花邨"
+    }
+  ],
+  "柴灣": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0555",
+      "lastTrain": "0035",
+      "station": "柴灣"
+    }
+  ],
+  "藍田": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0612",
+      "lastTrain": "0028",
+      "station": "藍田"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "彩虹",
+      "firstTrain": "0612",
+      "lastTrain": "0111",
+      "station": "藍田"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0605",
+      "lastTrain": "0105",
+      "station": "藍田"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0612",
+      "lastTrain": "0120",
+      "station": "藍田"
+    }
+  ],
+  "香港": [
+    {
+      "line": "機場快綫",
+      "to": "機場 / 博覽館",
+      "firstTrain": "0550",
+      "lastTrain": "0048",
+      "station": "香港"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "香港"
+    },
+    {
+      "line": "機場快綫",
+      "to": "機場 / 博覽館",
+      "firstTrain": "0550",
+      "lastTrain": "0048",
+      "station": "香港"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "香港"
+    }
+  ],
+  "九龍": [
+    {
+      "line": "機場快綫",
+      "to": "機場 / 博覽館",
+      "firstTrain": "0553",
+      "lastTrain": "0052",
+      "station": "九龍"
+    },
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0610",
+      "lastTrain": "0109",
+      "station": "九龍"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0604",
+      "lastTrain": "0053",
+      "station": "九龍"
+    },
+    {
+      "line": "機場快綫",
+      "to": "機場 / 博覽館",
+      "firstTrain": "0553",
+      "lastTrain": "0052",
+      "station": "九龍"
+    },
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0610",
+      "lastTrain": "0109",
+      "station": "九龍"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0604",
+      "lastTrain": "0053",
+      "station": "九龍"
+    }
+  ],
+  "奧運": [
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0608",
+      "lastTrain": "0107",
+      "station": "奧運"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0607",
+      "lastTrain": "0055",
+      "station": "奧運"
+    }
+  ],
+  "青衣": [
+    {
+      "line": "機場快綫",
+      "to": "機場 / 博覽館",
+      "firstTrain": "0600",
+      "lastTrain": "0059",
+      "station": "青衣"
+    },
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0559",
+      "lastTrain": "0058",
+      "station": "青衣"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0615",
+      "lastTrain": "0104",
+      "station": "青衣"
+    },
+    {
+      "line": "機場快綫",
+      "to": "機場 / 博覽館",
+      "firstTrain": "0600",
+      "lastTrain": "0059",
+      "station": "青衣"
+    },
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0559",
+      "lastTrain": "0058",
+      "station": "青衣"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0615",
+      "lastTrain": "0104",
+      "station": "青衣"
+    }
+  ],
+  "東涌": [
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0602",
+      "lastTrain": "0043",
+      "station": "東涌"
+    }
+  ],
+  "機場": [
+    {
+      "line": "機場快綫",
+      "to": "市區",
+      "firstTrain": "0554",
+      "lastTrain": "0048",
+      "station": "機場"
+    },
+    {
+      "line": "機場快綫",
+      "to": "博覽館",
+      "firstTrain": "0615",
+      "lastTrain": "0113",
+      "station": "機場"
+    }
+  ],
+  "調景嶺": [
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0607",
+      "lastTrain": "0022",
+      "station": "調景嶺"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "彩虹",
+      "firstTrain": "0607",
+      "lastTrain": "0106",
+      "station": "調景嶺"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0607",
+      "lastTrain": "0115",
+      "station": "調景嶺"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "北角",
+      "firstTrain": "0606",
+      "lastTrain": "0056",
+      "station": "調景嶺"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "寶琳",
+      "firstTrain": "0615",
+      "lastTrain": "0121",
+      "station": "調景嶺"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "康城",
+      "firstTrain": "0618",
+      "lastTrain": "0124",
+      "station": "調景嶺"
+    }
+  ],
+  "將軍澳": [
+    {
+      "line": "將軍澳綫",
+      "to": "北角",
+      "firstTrain": "0604",
+      "lastTrain": "0054",
+      "station": "將軍澳"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "寶琳",
+      "firstTrain": "0617",
+      "lastTrain": "0123",
+      "station": "將軍澳"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "康城",
+      "firstTrain": "0620",
+      "lastTrain": "0126",
+      "station": "將軍澳"
+    }
+  ],
+  "坑口": [
+    {
+      "line": "將軍澳綫",
+      "to": "北角",
+      "firstTrain": "0602",
+      "lastTrain": "0052",
+      "station": "坑口"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "寶琳",
+      "firstTrain": "0619",
+      "lastTrain": "0125",
+      "station": "坑口"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "康城",
+      "firstTrain": "0602",
+      "lastTrain": "0052",
+      "station": "坑口"
+    }
+  ],
+  "寶琳": [
+    {
+      "line": "將軍澳綫",
+      "to": "北角",
+      "firstTrain": "0600",
+      "lastTrain": "0050",
+      "station": "寶琳"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "康城",
+      "firstTrain": "0600",
+      "lastTrain": "0050",
+      "station": "寶琳"
+    }
+  ],
+  "南昌": [
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0606",
+      "lastTrain": "0105",
+      "station": "南昌"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0609",
+      "lastTrain": "0057",
+      "station": "南昌"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0615",
+      "lastTrain": "0039",
+      "station": "南昌"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0601",
+      "lastTrain": "0040",
+      "station": "南昌"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0615",
+      "lastTrain": "0045",
+      "station": "南昌"
+    }
+  ],
+  "欣澳": [
+    {
+      "line": "迪士尼綫",
+      "to": "迪士尼",
+      "firstTrain": "0615",
+      "lastTrain": "0045",
+      "station": "欣澳"
+    },
+    {
+      "line": "東涌綫",
+      "to": "香港",
+      "firstTrain": "0609",
+      "lastTrain": "0050",
+      "station": "欣澳"
+    },
+    {
+      "line": "東涌綫",
+      "to": "東涌",
+      "firstTrain": "0622",
+      "lastTrain": "0110",
+      "station": "欣澳"
+    }
+  ],
+  "迪士尼": [
+    {
+      "line": "迪士尼綫",
+      "to": "欣澳",
+      "firstTrain": "0620",
+      "lastTrain": "0040",
+      "station": "迪士尼"
+    }
+  ],
+  "博覽館": [
+    {
+      "line": "機場快綫",
+      "to": "市區",
+      "firstTrain": "0600",
+      "lastTrain": "0045",
+      "station": "博覽館"
+    }
+  ],
+  "康城": [
+    {
+      "line": "將軍澳綫",
+      "to": "北角",
+      "firstTrain": "0557",
+      "lastTrain": "0048",
+      "station": "康城"
+    },
+    {
+      "line": "將軍澳綫",
+      "to": "寶琳",
+      "firstTrain": "0557",
+      "lastTrain": "0048",
+      "station": "康城"
+    }
+  ],
+  "紅磡": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0604",
+      "lastTrain": "0047",
+      "station": "紅磡"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0553",
+      "lastTrain": "0032",
+      "station": "紅磡"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0535",
+      "lastTrain": "2135",
+      "station": "紅磡"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0530",
+      "lastTrain": "2307",
+      "station": "紅磡"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0530",
+      "lastTrain": "0028",
+      "station": "紅磡"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0555",
+      "lastTrain": "0046",
+      "station": "紅磡"
+    }
+  ],
+  "旺角東": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0528",
+      "lastTrain": "2138",
+      "station": "旺角東"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0533",
+      "lastTrain": "2310",
+      "station": "旺角東"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0528",
+      "lastTrain": "0033",
+      "station": "旺角東"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0549",
+      "lastTrain": "0039",
+      "station": "旺角東"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0549",
+      "lastTrain": "0109",
+      "station": "旺角東"
+    }
+  ],
+  "大圍": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0540",
+      "lastTrain": "0105",
+      "station": "大圍"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0558",
+      "lastTrain": "0014",
+      "station": "大圍"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0558",
+      "lastTrain": "0034",
+      "station": "大圍"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0535",
+      "lastTrain": "2145",
+      "station": "大圍"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0540",
+      "lastTrain": "2317",
+      "station": "大圍"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0535",
+      "lastTrain": "0041",
+      "station": "大圍"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0540",
+      "lastTrain": "0031",
+      "station": "大圍"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0540",
+      "lastTrain": "0101",
+      "station": "大圍"
+    }
+  ],
+  "沙田": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0537",
+      "lastTrain": "2148",
+      "station": "沙田"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0535",
+      "lastTrain": "2320",
+      "station": "沙田"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0535",
+      "lastTrain": "0044",
+      "station": "沙田"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0538",
+      "lastTrain": "0028",
+      "station": "沙田"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0538",
+      "lastTrain": "0058",
+      "station": "沙田"
+    }
+  ],
+  "火炭": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0540",
+      "lastTrain": "2151",
+      "station": "火炭"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0537",
+      "lastTrain": "2323",
+      "station": "火炭"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0537",
+      "lastTrain": "0047",
+      "station": "火炭"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0601",
+      "lastTrain": "0025",
+      "station": "火炭"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0601",
+      "lastTrain": "0055",
+      "station": "火炭"
+    }
+  ],
+  "馬場": [
+    {
+      "line": "東鐵綫",
+      "to": "-",
+      "firstTrain": "-",
+      "lastTrain": "-",
+      "station": "馬場"
+    }
+  ],
+  "大學": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0544",
+      "lastTrain": "2155",
+      "station": "大學"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0541",
+      "lastTrain": "2327",
+      "station": "大學"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0541",
+      "lastTrain": "0050",
+      "station": "大學"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0557",
+      "lastTrain": "0022",
+      "station": "大學"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0557",
+      "lastTrain": "0052",
+      "station": "大學"
+    }
+  ],
+  "大埔墟": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0550",
+      "lastTrain": "2201",
+      "station": "大埔墟"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0547",
+      "lastTrain": "2333",
+      "station": "大埔墟"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0547",
+      "lastTrain": "0057",
+      "station": "大埔墟"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0551",
+      "lastTrain": "0016",
+      "station": "大埔墟"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0551",
+      "lastTrain": "0046",
+      "station": "大埔墟"
+    }
+  ],
+  "太和": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0552",
+      "lastTrain": "2203",
+      "station": "太和"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0549",
+      "lastTrain": "2335",
+      "station": "太和"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0549",
+      "lastTrain": "0059",
+      "station": "太和"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0549",
+      "lastTrain": "0013",
+      "station": "太和"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0549",
+      "lastTrain": "0043",
+      "station": "太和"
+    }
+  ],
+  "粉嶺": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0558",
+      "lastTrain": "2208",
+      "station": "粉嶺"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0554",
+      "lastTrain": "2341",
+      "station": "粉嶺"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0554",
+      "lastTrain": "0105",
+      "station": "粉嶺"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0542",
+      "lastTrain": "0007",
+      "station": "粉嶺"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0542",
+      "lastTrain": "0037",
+      "station": "粉嶺"
+    }
+  ],
+  "上水": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0600",
+      "lastTrain": "2211",
+      "station": "上水"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0557",
+      "lastTrain": "2343",
+      "station": "上水"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0540",
+      "lastTrain": "0004",
+      "station": "上水"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0540",
+      "lastTrain": "0034",
+      "station": "上水"
+    }
+  ],
+  "羅湖": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0555",
+      "lastTrain": "2202",
+      "station": "羅湖"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0555",
+      "lastTrain": "0000",
+      "station": "羅湖"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0555",
+      "lastTrain": "0030",
+      "station": "羅湖"
+    }
+  ],
+  "落馬洲": [
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0638",
+      "lastTrain": "2255",
+      "station": "落馬洲"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0638",
+      "lastTrain": "2255",
+      "station": "落馬洲"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "紅磡",
+      "firstTrain": "0638",
+      "lastTrain": "2255",
+      "station": "落馬洲"
+    }
+  ],
+  "尖東": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0601",
+      "lastTrain": "0045",
+      "station": "尖東"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0555",
+      "lastTrain": "0034",
+      "station": "尖東"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "尖東"
+    }
+  ],
+  "西營盤": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0611",
+      "lastTrain": "0108",
+      "station": "西營盤"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0603",
+      "lastTrain": "0054",
+      "station": "西營盤"
+    }
+  ],
+  "香港大學": [
+    {
+      "line": "港島綫",
+      "to": "堅尼地城",
+      "firstTrain": "0613",
+      "lastTrain": "0110",
+      "station": "香港大學"
+    },
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0601",
+      "lastTrain": "0052",
+      "station": "香港大學"
+    }
+  ],
+  "堅尼地城": [
+    {
+      "line": "港島綫",
+      "to": "柴灣",
+      "firstTrain": "0600",
+      "lastTrain": "0050",
+      "station": "堅尼地城"
+    }
+  ],
+  "何文田": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0606",
+      "lastTrain": "0049",
+      "station": "何文田"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0614",
+      "lastTrain": "0030",
+      "station": "何文田"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0614",
+      "lastTrain": "0050",
+      "station": "何文田"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "黃埔",
+      "firstTrain": "0614",
+      "lastTrain": "0052",
+      "station": "何文田"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0612",
+      "lastTrain": "0042",
+      "station": "何文田"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0612",
+      "lastTrain": "0102",
+      "station": "何文田"
+    }
+  ],
+  "黃埔": [
+    {
+      "line": "觀塘綫",
+      "to": "調景嶺",
+      "firstTrain": "0610",
+      "lastTrain": "0040",
+      "station": "黃埔"
+    },
+    {
+      "line": "觀塘綫",
+      "to": "觀塘",
+      "firstTrain": "0610",
+      "lastTrain": "0100",
+      "station": "黃埔"
+    }
+  ],
+  "海洋公園": [
+    {
+      "line": "南港島綫",
+      "to": "海怡半島",
+      "firstTrain": "0616",
+      "lastTrain": "0110",
+      "station": "海洋公園"
+    },
+    {
+      "line": "南港島綫",
+      "to": "金鐘",
+      "firstTrain": "0606",
+      "lastTrain": "0048",
+      "station": "海洋公園"
+    }
+  ],
+  "黃竹坑": [
+    {
+      "line": "南港島綫",
+      "to": "海怡半島",
+      "firstTrain": "0617",
+      "lastTrain": "0112",
+      "station": "黃竹坑"
+    },
+    {
+      "line": "南港島綫",
+      "to": "金鐘",
+      "firstTrain": "0604",
+      "lastTrain": "0046",
+      "station": "黃竹坑"
+    }
+  ],
+  "利東": [
+    {
+      "line": "南港島綫",
+      "to": "海怡半島",
+      "firstTrain": "0620",
+      "lastTrain": "0114",
+      "station": "利東"
+    },
+    {
+      "line": "南港島綫",
+      "to": "金鐘",
+      "firstTrain": "0602",
+      "lastTrain": "0044",
+      "station": "利東"
+    }
+  ],
+  "海怡半島": [
+    {
+      "line": "南港島綫",
+      "to": "金鐘",
+      "firstTrain": "0600",
+      "lastTrain": "0042",
+      "station": "海怡半島"
+    }
+  ],
+  "顯徑": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0618",
+      "lastTrain": "0102",
+      "station": "顯徑"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0600",
+      "lastTrain": "0016",
+      "station": "顯徑"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0600",
+      "lastTrain": "0036",
+      "station": "顯徑"
+    }
+  ],
+  "啟德": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0612",
+      "lastTrain": "0055",
+      "station": "啟德"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0608",
+      "lastTrain": "0023",
+      "station": "啟德"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0608",
+      "lastTrain": "0043",
+      "station": "啟德"
+    }
+  ],
+  "宋皇臺": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0610",
+      "lastTrain": "0053",
+      "station": "宋皇臺"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0610",
+      "lastTrain": "0025",
+      "station": "宋皇臺"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0610",
+      "lastTrain": "0045",
+      "station": "宋皇臺"
+    }
+  ],
+  "土瓜灣": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0608",
+      "lastTrain": "0051",
+      "station": "土瓜灣"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0612",
+      "lastTrain": "0027",
+      "station": "土瓜灣"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0612",
+      "lastTrain": "0047",
+      "station": "土瓜灣"
+    }
+  ],
+  "會展": [
+    {
+      "line": "東鐵綫",
+      "to": "落馬洲",
+      "firstTrain": "0613",
+      "lastTrain": "2131",
+      "station": "會展"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "羅湖",
+      "firstTrain": "0607",
+      "lastTrain": "2303",
+      "station": "會展"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "上水",
+      "firstTrain": "0607",
+      "lastTrain": "0024",
+      "station": "會展"
+    },
+    {
+      "line": "東鐵綫",
+      "to": "金鐘",
+      "firstTrain": "0558",
+      "lastTrain": "0049",
+      "station": "會展"
+    }
+  ],
+  "車公廟": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0542",
+      "lastTrain": "0107",
+      "station": "車公廟"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0556",
+      "lastTrain": "0012",
+      "station": "車公廟"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0556",
+      "lastTrain": "0032",
+      "station": "車公廟"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0556",
+      "lastTrain": "0057",
+      "station": "車公廟"
+    }
+  ],
+  "沙田圍": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0544",
+      "lastTrain": "0109",
+      "station": "沙田圍"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0553",
+      "lastTrain": "0009",
+      "station": "沙田圍"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0553",
+      "lastTrain": "0029",
+      "station": "沙田圍"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0553",
+      "lastTrain": "0054",
+      "station": "沙田圍"
+    }
+  ],
+  "第一城": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0546",
+      "lastTrain": "0112",
+      "station": "第一城"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0551",
+      "lastTrain": "0007",
+      "station": "第一城"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0551",
+      "lastTrain": "0027",
+      "station": "第一城"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0551",
+      "lastTrain": "0052",
+      "station": "第一城"
+    }
+  ],
+  "石門": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0548",
+      "lastTrain": "0114",
+      "station": "石門"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0549",
+      "lastTrain": "0005",
+      "station": "石門"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0549",
+      "lastTrain": "0025",
+      "station": "石門"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0549",
+      "lastTrain": "0050",
+      "station": "石門"
+    }
+  ],
+  "大水坑": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0552",
+      "lastTrain": "0118",
+      "station": "大水坑"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0545",
+      "lastTrain": "0001",
+      "station": "大水坑"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0545",
+      "lastTrain": "0021",
+      "station": "大水坑"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0545",
+      "lastTrain": "0046",
+      "station": "大水坑"
+    }
+  ],
+  "恆安": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0554",
+      "lastTrain": "0120",
+      "station": "恆安"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0543",
+      "lastTrain": "2359",
+      "station": "恆安"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0543",
+      "lastTrain": "0019",
+      "station": "恆安"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0543",
+      "lastTrain": "0044",
+      "station": "恆安"
+    }
+  ],
+  "馬鞍山": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0556",
+      "lastTrain": "0122",
+      "station": "馬鞍山"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0541",
+      "lastTrain": "2357",
+      "station": "馬鞍山"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0541",
+      "lastTrain": "0017",
+      "station": "馬鞍山"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0541",
+      "lastTrain": "0042",
+      "station": "馬鞍山"
+    }
+  ],
+  "烏溪沙": [
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0538",
+      "lastTrain": "2354",
+      "station": "烏溪沙"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0538",
+      "lastTrain": "0014",
+      "station": "烏溪沙"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "大圍",
+      "firstTrain": "0538",
+      "lastTrain": "0039",
+      "station": "烏溪沙"
+    }
+  ],
+  "柯士甸": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0618",
+      "lastTrain": "0042",
+      "station": "柯士甸"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0558",
+      "lastTrain": "0037",
+      "station": "柯士甸"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0618",
+      "lastTrain": "0048",
+      "station": "柯士甸"
+    }
+  ],
+  "荃灣西": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0607",
+      "lastTrain": "0031",
+      "station": "荃灣西"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0609",
+      "lastTrain": "0048",
+      "station": "荃灣西"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0607",
+      "lastTrain": "0037",
+      "station": "荃灣西"
+    }
+  ],
+  "錦上路": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0601",
+      "lastTrain": "0025",
+      "station": "錦上路"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0603",
+      "lastTrain": "0054",
+      "station": "錦上路"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0601",
+      "lastTrain": "0031",
+      "station": "錦上路"
+    }
+  ],
+  "元朗": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0557",
+      "lastTrain": "0021",
+      "station": "元朗"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0607",
+      "lastTrain": "0058",
+      "station": "元朗"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0557",
+      "lastTrain": "0027",
+      "station": "元朗"
+    }
+  ],
+  "朗屏": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0555",
+      "lastTrain": "0019",
+      "station": "朗屏"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0609",
+      "lastTrain": "0100",
+      "station": "朗屏"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0555",
+      "lastTrain": "0025",
+      "station": "朗屏"
+    }
+  ],
+  "天水圍": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0552",
+      "lastTrain": "0016",
+      "station": "天水圍"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0612",
+      "lastTrain": "0103",
+      "station": "天水圍"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0552",
+      "lastTrain": "0022",
+      "station": "天水圍"
+    }
+  ],
+  "兆康": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0548",
+      "lastTrain": "0012",
+      "station": "兆康"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "屯門",
+      "firstTrain": "0617",
+      "lastTrain": "0107",
+      "station": "兆康"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0548",
+      "lastTrain": "0018",
+      "station": "兆康"
+    }
+  ],
+  "屯門": [
+    {
+      "line": "屯馬綫",
+      "to": "烏溪沙",
+      "firstTrain": "0545",
+      "lastTrain": "0009",
+      "station": "屯門"
+    },
+    {
+      "line": "屯馬綫",
+      "to": "紅磡",
+      "firstTrain": "0545",
+      "lastTrain": "0015",
+      "station": "屯門"
+    }
+  ],
+
+  "Central": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0606",
+      "lastTrain": "0054",
+      "station": "Central"
+    },
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0607",
+      "lastTrain": "0104",
+      "station": "Central"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0607",
+      "lastTrain": "0058",
+      "station": "Central"
+    }
+  ],
+  "Admiralty": [
+    {
+      "line": "South Island Line",
+      "to": "South Horizons",
+      "firstTrain": "0611",
+      "lastTrain": "0105",
+      "station": "Admiralty"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0608",
+      "lastTrain": "0057",
+      "station": "Admiralty"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0607",
+      "lastTrain": "0056",
+      "station": "Admiralty"
+    },
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0605",
+      "lastTrain": "0102",
+      "station": "Admiralty"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0610",
+      "lastTrain": "0100",
+      "station": "Admiralty"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0610",
+      "lastTrain": "2129",
+      "station": "Admiralty"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0604",
+      "lastTrain": "2301",
+      "station": "Admiralty"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0604",
+      "lastTrain": "0022",
+      "station": "Admiralty"
+    }
+  ],
+  "Tsim Sha Tsui": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0604",
+      "lastTrain": "0054",
+      "station": "Tsim Sha Tsui"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0611",
+      "lastTrain": "0059",
+      "station": "Tsim Sha Tsui"
+    }
+  ],
+  "Jordan": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0603",
+      "lastTrain": "0052",
+      "station": "Jordan"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0613",
+      "lastTrain": "0101",
+      "station": "Jordan"
+    }
+  ],
+  "Yau Ma Tei": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "Yau Ma Tei"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0614",
+      "lastTrain": "0103",
+      "station": "Yau Ma Tei"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0611",
+      "lastTrain": "0050",
+      "station": "Yau Ma Tei"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0614",
+      "lastTrain": "0044",
+      "station": "Yau Ma Tei"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0614",
+      "lastTrain": "0104",
+      "station": "Yau Ma Tei"
+    }
+  ],
+  "Mong Kok": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0610",
+      "lastTrain": "0048",
+      "station": "Mong Kok"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0616",
+      "lastTrain": "0105",
+      "station": "Mong Kok"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0610",
+      "lastTrain": "0048",
+      "station": "Mong Kok"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0616",
+      "lastTrain": "0046",
+      "station": "Mong Kok"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0616",
+      "lastTrain": "0106",
+      "station": "Mong Kok"
+    }
+  ],
+  "Shek Kip Mei": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0606",
+      "lastTrain": "0045",
+      "station": "Shek Kip Mei"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0619",
+      "lastTrain": "0049",
+      "station": "Shek Kip Mei"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0619",
+      "lastTrain": "0109",
+      "station": "Shek Kip Mei"
+    }
+  ],
+  "Kowloon Tong": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0604",
+      "lastTrain": "0042",
+      "station": "Kowloon Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0621",
+      "lastTrain": "0051",
+      "station": "Kowloon Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0621",
+      "lastTrain": "0111",
+      "station": "Kowloon Tong"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0530",
+      "lastTrain": "2141",
+      "station": "Kowloon Tong"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0536",
+      "lastTrain": "2313",
+      "station": "Kowloon Tong"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0530",
+      "lastTrain": "0037",
+      "station": "Kowloon Tong"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0545",
+      "lastTrain": "0036",
+      "station": "Kowloon Tong"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0545",
+      "lastTrain": "0106",
+      "station": "Kowloon Tong"
+    }
+  ],
+  "Lok Fu": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0602",
+      "lastTrain": "0041",
+      "station": "Lok Fu"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0623",
+      "lastTrain": "0053",
+      "station": "Lok Fu"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0623",
+      "lastTrain": "0113",
+      "station": "Lok Fu"
+    }
+  ],
+  "Wong Tai Sin": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0600",
+      "lastTrain": "0039",
+      "station": "Wong Tai Sin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0624",
+      "lastTrain": "0054",
+      "station": "Wong Tai Sin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0624",
+      "lastTrain": "0114",
+      "station": "Wong Tai Sin"
+    }
+  ],
+  "Diamond Hill": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0614",
+      "lastTrain": "0058",
+      "station": "Diamond Hill"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0605",
+      "lastTrain": "0021",
+      "station": "Diamond Hill"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0605",
+      "lastTrain": "0041",
+      "station": "Diamond Hill"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0559",
+      "lastTrain": "0037",
+      "station": "Diamond Hill"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0626",
+      "lastTrain": "0056",
+      "station": "Diamond Hill"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0626",
+      "lastTrain": "0116",
+      "station": "Diamond Hill"
+    }
+  ],
+  "Choi Hung": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0557",
+      "lastTrain": "0035",
+      "station": "Choi Hung"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0615",
+      "lastTrain": "0058",
+      "station": "Choi Hung"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0615",
+      "lastTrain": "0118",
+      "station": "Choi Hung"
+    }
+  ],
+  "Kowloon Bay": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0603",
+      "lastTrain": "0033",
+      "station": "Kowloon Bay"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Choi Hung",
+      "firstTrain": "0603",
+      "lastTrain": "0117",
+      "station": "Kowloon Bay"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0616",
+      "lastTrain": "0100",
+      "station": "Kowloon Bay"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0616",
+      "lastTrain": "0120",
+      "station": "Kowloon Bay"
+    }
+  ],
+  "Ngau Tau Kok": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0601",
+      "lastTrain": "0031",
+      "station": "Ngau Tau Kok"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Choi Hung",
+      "firstTrain": "0601",
+      "lastTrain": "0115",
+      "station": "Ngau Tau Kok"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0602",
+      "lastTrain": "0102",
+      "station": "Ngau Tau Kok"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0602",
+      "lastTrain": "0122",
+      "station": "Ngau Tau Kok"
+    }
+  ],
+  "Kwun Tong": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0600",
+      "lastTrain": "0030",
+      "station": "Kwun Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0604",
+      "lastTrain": "0104",
+      "station": "Kwun Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Choi Hung",
+      "firstTrain": "0600",
+      "lastTrain": "0113",
+      "station": "Kwun Tong"
+    }
+  ],
+  "Prince Edward": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0608",
+      "lastTrain": "0047",
+      "station": "Prince Edward"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0617",
+      "lastTrain": "0106",
+      "station": "Prince Edward"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0608",
+      "lastTrain": "0046",
+      "station": "Prince Edward"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0618",
+      "lastTrain": "0047",
+      "station": "Prince Edward"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0618",
+      "lastTrain": "0107",
+      "station": "Prince Edward"
+    }
+  ],
+  "Sham Shui Po": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0614",
+      "lastTrain": "0045",
+      "station": "Sham Shui Po"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0620",
+      "lastTrain": "0108",
+      "station": "Sham Shui Po"
+    }
+  ],
+  "Cheung Sha Wan": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0613",
+      "lastTrain": "0043",
+      "station": "Cheung Sha Wan"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0622",
+      "lastTrain": "0110",
+      "station": "Cheung Sha Wan"
+    }
+  ],
+  "Lai Chi Kok": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0611",
+      "lastTrain": "0041",
+      "station": "Lai Chi Kok"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0624",
+      "lastTrain": "0111",
+      "station": "Lai Chi Kok"
+    }
+  ],
+  "Mei Foo": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0610",
+      "lastTrain": "0040",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0625",
+      "lastTrain": "0113",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0612",
+      "lastTrain": "0036",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0604",
+      "lastTrain": "0043",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0612",
+      "lastTrain": "0042",
+      "station": "Mei Foo"
+    }
+  ],
+  "Lai King": [
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0602",
+      "lastTrain": "0101",
+      "station": "Lai King"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0613",
+      "lastTrain": "0101",
+      "station": "Lai King"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0607",
+      "lastTrain": "0037",
+      "station": "Lai King"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0628",
+      "lastTrain": "0116",
+      "station": "Lai King"
+    }
+  ],
+  "Kwai Fong": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0605",
+      "lastTrain": "0035",
+      "station": "Kwai Fong"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0630",
+      "lastTrain": "0118",
+      "station": "Kwai Fong"
+    }
+  ],
+  "Kwai Hing": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0604",
+      "lastTrain": "0033",
+      "station": "Kwai Hing"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0632",
+      "lastTrain": "0120",
+      "station": "Kwai Hing"
+    }
+  ],
+  "Tai Wo Hau": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0601",
+      "lastTrain": "0031",
+      "station": "Tai Wo Hau"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0634",
+      "lastTrain": "0122",
+      "station": "Tai Wo Hau"
+    }
+  ],
+  "Tsuen Wan": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0600",
+      "lastTrain": "0030",
+      "station": "Tsuen Wan"
+    }
+  ],
+  "Sheung Wan": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0609",
+      "lastTrain": "0106",
+      "station": "Sheung Wan"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0605",
+      "lastTrain": "0056",
+      "station": "Sheung Wan"
+    }
+  ],
+  "Wan Chai": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0603",
+      "lastTrain": "0054",
+      "station": "Wan Chai"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0611",
+      "lastTrain": "0101",
+      "station": "Wan Chai"
+    }
+  ],
+  "Causeway Bay": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0601",
+      "lastTrain": "0052",
+      "station": "Causeway Bay"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0613",
+      "lastTrain": "0104",
+      "station": "Causeway Bay"
+    }
+  ],
+  "Tin Hau": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0609",
+      "lastTrain": "0050",
+      "station": "Tin Hau"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0615",
+      "lastTrain": "0106",
+      "station": "Tin Hau"
+    }
+  ],
+  "Fortress Hill": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0608",
+      "lastTrain": "0048",
+      "station": "Fortress Hill"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0616",
+      "lastTrain": "0107",
+      "station": "Fortress Hill"
+    }
+  ],
+  "North Point": [
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "Po Lam",
+      "firstTrain": "0613",
+      "lastTrain": "0112",
+      "station": "North Point"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "LOHAS Park",
+      "firstTrain": "0613",
+      "lastTrain": "0112",
+      "station": "North Point"
+    },
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0606",
+      "lastTrain": "0047",
+      "station": "North Point"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0619",
+      "lastTrain": "0109",
+      "station": "North Point"
+    }
+  ],
+  "Quarry Bay": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0604",
+      "lastTrain": "0045",
+      "station": "Quarry Bay"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0621",
+      "lastTrain": "0111",
+      "station": "Quarry Bay"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "North Point",
+      "firstTrain": "0613",
+      "lastTrain": "0103",
+      "station": "Quarry Bay"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "Po Lam",
+      "firstTrain": "0615",
+      "lastTrain": "0114",
+      "station": "Quarry Bay"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "LOHAS Park",
+      "firstTrain": "0615",
+      "lastTrain": "0114",
+      "station": "Quarry Bay"
+    }
+  ],
+  "Tai Koo": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0603",
+      "lastTrain": "0043",
+      "station": "Tai Koo"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0622",
+      "lastTrain": "0113",
+      "station": "Tai Koo"
+    }
+  ],
+  "Sai Wan Ho": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0601",
+      "lastTrain": "0041",
+      "station": "Sai Wan Ho"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0623",
+      "lastTrain": "0115",
+      "station": "Sai Wan Ho"
+    }
+  ],
+  "Shau Kei Wan": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0559",
+      "lastTrain": "0040",
+      "station": "Shau Kei Wan"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0625",
+      "lastTrain": "0117",
+      "station": "Shau Kei Wan"
+    }
+  ],
+  "Heng Fa Chuen": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0558",
+      "lastTrain": "0037",
+      "station": "Heng Fa Chuen"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0629",
+      "lastTrain": "0119",
+      "station": "Heng Fa Chuen"
+    }
+  ],
+  "Chai Wan": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0555",
+      "lastTrain": "0035",
+      "station": "Chai Wan"
+    }
+  ],
+  "Lam Tin": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0612",
+      "lastTrain": "0028",
+      "station": "Lam Tin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Choi Hung",
+      "firstTrain": "0612",
+      "lastTrain": "0111",
+      "station": "Lam Tin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0605",
+      "lastTrain": "0105",
+      "station": "Lam Tin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0612",
+      "lastTrain": "0120",
+      "station": "Lam Tin"
+    }
+  ],
+  "Hong Kong": [
+    {
+      "line": "Airport Express",
+      "to": "Airport / AsiaWorld-Expo",
+      "firstTrain": "0550",
+      "lastTrain": "0048",
+      "station": "Hong Kong"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "Hong Kong"
+    },
+    {
+      "line": "Airport Express",
+      "to": "Airport / AsiaWorld-Expo",
+      "firstTrain": "0550",
+      "lastTrain": "0048",
+      "station": "Hong Kong"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "Hong Kong"
+    }
+  ],
+  "Kowloon": [
+    {
+      "line": "Airport Express",
+      "to": "Airport / AsiaWorld-Expo",
+      "firstTrain": "0553",
+      "lastTrain": "0052",
+      "station": "Kowloon"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0610",
+      "lastTrain": "0109",
+      "station": "Kowloon"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0604",
+      "lastTrain": "0053",
+      "station": "Kowloon"
+    },
+    {
+      "line": "Airport Express",
+      "to": "Airport / AsiaWorld-Expo",
+      "firstTrain": "0553",
+      "lastTrain": "0052",
+      "station": "Kowloon"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0610",
+      "lastTrain": "0109",
+      "station": "Kowloon"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0604",
+      "lastTrain": "0053",
+      "station": "Kowloon"
+    }
+  ],
+  "Olympic": [
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0608",
+      "lastTrain": "0107",
+      "station": "Olympic"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0607",
+      "lastTrain": "0055",
+      "station": "Olympic"
+    }
+  ],
+  "Tsing Yi": [
+    {
+      "line": "Airport Express",
+      "to": "Airport / AsiaWorld-Expo",
+      "firstTrain": "0600",
+      "lastTrain": "0059",
+      "station": "Tsing Yi"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0559",
+      "lastTrain": "0058",
+      "station": "Tsing Yi"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0615",
+      "lastTrain": "0104",
+      "station": "Tsing Yi"
+    },
+    {
+      "line": "Airport Express",
+      "to": "Airport / AsiaWorld-Expo",
+      "firstTrain": "0600",
+      "lastTrain": "0059",
+      "station": "Tsing Yi"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0559",
+      "lastTrain": "0058",
+      "station": "Tsing Yi"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0615",
+      "lastTrain": "0104",
+      "station": "Tsing Yi"
+    }
+  ],
+  "Tung Chung": [
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0602",
+      "lastTrain": "0043",
+      "station": "Tung Chung"
+    }
+  ],
+  "Airport": [
+    {
+      "line": "Airport Express",
+      "to": "City",
+      "firstTrain": "0554",
+      "lastTrain": "0048",
+      "station": "Airport"
+    },
+    {
+      "line": "Airport Express",
+      "to": "AsiaWorld-Expo",
+      "firstTrain": "0615",
+      "lastTrain": "0113",
+      "station": "Airport"
+    }
+  ],
+  "Yau Tong": [
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "North Point",
+      "firstTrain": "0609",
+      "lastTrain": "0059",
+      "station": "Yau Tong"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "Po Lam",
+      "firstTrain": "0619",
+      "lastTrain": "0118",
+      "station": "Yau Tong"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "LOHAS Park",
+      "firstTrain": "0619",
+      "lastTrain": "0118",
+      "station": "Yau Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0609",
+      "lastTrain": "0026",
+      "station": "Yau Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Choi Hung",
+      "firstTrain": "0609",
+      "lastTrain": "0109",
+      "station": "Yau Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0607",
+      "lastTrain": "0108",
+      "station": "Yau Tong"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0609",
+      "lastTrain": "0118",
+      "station": "Yau Tong"
+    }
+  ],
+  "Tiu Keng Leng": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0607",
+      "lastTrain": "0022",
+      "station": "Tiu Keng Leng"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Choi Hung",
+      "firstTrain": "0607",
+      "lastTrain": "0106",
+      "station": "Tiu Keng Leng"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0607",
+      "lastTrain": "0115",
+      "station": "Tiu Keng Leng"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "North Point",
+      "firstTrain": "0606",
+      "lastTrain": "0056",
+      "station": "Tiu Keng Leng"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "Po Lam",
+      "firstTrain": "0615",
+      "lastTrain": "0121",
+      "station": "Tiu Keng Leng"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "LOHAS Park",
+      "firstTrain": "0618",
+      "lastTrain": "0124",
+      "station": "Tiu Keng Leng"
+    }
+  ],
+  "Tseung Kwan O": [
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "North Point",
+      "firstTrain": "0604",
+      "lastTrain": "0054",
+      "station": "Tseung Kwan O"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "Po Lam",
+      "firstTrain": "0617",
+      "lastTrain": "0123",
+      "station": "Tseung Kwan O"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "LOHAS Park",
+      "firstTrain": "0620",
+      "lastTrain": "0126",
+      "station": "Tseung Kwan O"
+    }
+  ],
+  "Hang Hau": [
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "North Point",
+      "firstTrain": "0602",
+      "lastTrain": "0052",
+      "station": "Hang Hau"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "Po Lam",
+      "firstTrain": "0619",
+      "lastTrain": "0125",
+      "station": "Hang Hau"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "LOHAS Park",
+      "firstTrain": "0602",
+      "lastTrain": "0052",
+      "station": "Hang Hau"
+    }
+  ],
+  "Po Lam": [
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "North Point",
+      "firstTrain": "0600",
+      "lastTrain": "0050",
+      "station": "Po Lam"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "LOHAS Park",
+      "firstTrain": "0600",
+      "lastTrain": "0050",
+      "station": "Po Lam"
+    }
+  ],
+  "Nam Cheong": [
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0606",
+      "lastTrain": "0105",
+      "station": "Nam Cheong"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0609",
+      "lastTrain": "0057",
+      "station": "Nam Cheong"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0615",
+      "lastTrain": "0039",
+      "station": "Nam Cheong"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0601",
+      "lastTrain": "0040",
+      "station": "Nam Cheong"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0615",
+      "lastTrain": "0045",
+      "station": "Nam Cheong"
+    }
+  ],
+  "Sunny Bay": [
+    {
+      "line": "Disneyland Resort Line",
+      "to": "Disneyland Resort",
+      "firstTrain": "0615",
+      "lastTrain": "0045",
+      "station": "Sunny Bay"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Hong Kong",
+      "firstTrain": "0609",
+      "lastTrain": "0050",
+      "station": "Sunny Bay"
+    },
+    {
+      "line": "Tung Chung Line",
+      "to": "Tung Chung",
+      "firstTrain": "0622",
+      "lastTrain": "0110",
+      "station": "Sunny Bay"
+    }
+  ],
+  "Disneyland Resort": [
+    {
+      "line": "Disneyland Resort Line",
+      "to": "Sunny Bay",
+      "firstTrain": "0620",
+      "lastTrain": "0040",
+      "station": "Disneyland Resort"
+    }
+  ],
+  "AsiaWorld-Expo": [
+    {
+      "line": "Airport Express",
+      "to": "City",
+      "firstTrain": "0600",
+      "lastTrain": "0045",
+      "station": "AsiaWorld-Expo"
+    }
+  ],
+  "LOHAS Park": [
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "North Point",
+      "firstTrain": "0557",
+      "lastTrain": "0048",
+      "station": "LOHAS Park"
+    },
+    {
+      "line": "Tseung Kwan O Line",
+      "to": "Po Lam",
+      "firstTrain": "0557",
+      "lastTrain": "0048",
+      "station": "LOHAS Park"
+    }
+  ],
+  "Hung Hom": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0604",
+      "lastTrain": "0047",
+      "station": "Hung Hom"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0553",
+      "lastTrain": "0032",
+      "station": "Hung Hom"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0535",
+      "lastTrain": "2135",
+      "station": "Hung Hom"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0530",
+      "lastTrain": "2307",
+      "station": "Hung Hom"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0530",
+      "lastTrain": "0028",
+      "station": "Hung Hom"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0555",
+      "lastTrain": "0046",
+      "station": "Hung Hom"
+    }
+  ],
+  "Mong Kok East": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0528",
+      "lastTrain": "2138",
+      "station": "Mong Kok East"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0533",
+      "lastTrain": "2310",
+      "station": "Mong Kok East"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0528",
+      "lastTrain": "0033",
+      "station": "Mong Kok East"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0549",
+      "lastTrain": "0039",
+      "station": "Mong Kok East"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0549",
+      "lastTrain": "0109",
+      "station": "Mong Kok East"
+    }
+  ],
+  "Tai Wai": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0540",
+      "lastTrain": "0105",
+      "station": "Tai Wai"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0558",
+      "lastTrain": "0014",
+      "station": "Tai Wai"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0558",
+      "lastTrain": "0034",
+      "station": "Tai Wai"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0535",
+      "lastTrain": "2145",
+      "station": "Tai Wai"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0540",
+      "lastTrain": "2317",
+      "station": "Tai Wai"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0535",
+      "lastTrain": "0041",
+      "station": "Tai Wai"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0540",
+      "lastTrain": "0031",
+      "station": "Tai Wai"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0540",
+      "lastTrain": "0101",
+      "station": "Tai Wai"
+    }
+  ],
+  "Sha Tin": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0537",
+      "lastTrain": "2148",
+      "station": "Sha Tin"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0535",
+      "lastTrain": "2320",
+      "station": "Sha Tin"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0535",
+      "lastTrain": "0044",
+      "station": "Sha Tin"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0538",
+      "lastTrain": "0028",
+      "station": "Sha Tin"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0538",
+      "lastTrain": "0058",
+      "station": "Sha Tin"
+    }
+  ],
+  "Fo Tan": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0540",
+      "lastTrain": "2151",
+      "station": "Fo Tan"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0537",
+      "lastTrain": "2323",
+      "station": "Fo Tan"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0537",
+      "lastTrain": "0047",
+      "station": "Fo Tan"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0601",
+      "lastTrain": "0025",
+      "station": "Fo Tan"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0601",
+      "lastTrain": "0055",
+      "station": "Fo Tan"
+    }
+  ],
+  "Racecourse": [
+    {
+      "line": "East Rail Line",
+      "to": "-",
+      "firstTrain": "-",
+      "lastTrain": "-",
+      "station": "Racecourse"
+    }
+  ],
+  "University": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0544",
+      "lastTrain": "2155",
+      "station": "University"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0541",
+      "lastTrain": "2327",
+      "station": "University"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0541",
+      "lastTrain": "0050",
+      "station": "University"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0557",
+      "lastTrain": "0022",
+      "station": "University"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0557",
+      "lastTrain": "0052",
+      "station": "University"
+    }
+  ],
+  "Tai Po Market": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0550",
+      "lastTrain": "2201",
+      "station": "Tai Po Market"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0547",
+      "lastTrain": "2333",
+      "station": "Tai Po Market"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0547",
+      "lastTrain": "0057",
+      "station": "Tai Po Market"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0551",
+      "lastTrain": "0016",
+      "station": "Tai Po Market"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0551",
+      "lastTrain": "0046",
+      "station": "Tai Po Market"
+    }
+  ],
+  "Tai Wo": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0552",
+      "lastTrain": "2203",
+      "station": "Tai Wo"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0549",
+      "lastTrain": "2335",
+      "station": "Tai Wo"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0549",
+      "lastTrain": "0059",
+      "station": "Tai Wo"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0549",
+      "lastTrain": "0013",
+      "station": "Tai Wo"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0549",
+      "lastTrain": "0043",
+      "station": "Tai Wo"
+    }
+  ],
+  "Fanling": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0558",
+      "lastTrain": "2208",
+      "station": "Fanling"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0554",
+      "lastTrain": "2341",
+      "station": "Fanling"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0554",
+      "lastTrain": "0105",
+      "station": "Fanling"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0542",
+      "lastTrain": "0007",
+      "station": "Fanling"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0542",
+      "lastTrain": "0037",
+      "station": "Fanling"
+    }
+  ],
+  "Sheung Shui": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0600",
+      "lastTrain": "2211",
+      "station": "Sheung Shui"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0557",
+      "lastTrain": "2343",
+      "station": "Sheung Shui"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0540",
+      "lastTrain": "0004",
+      "station": "Sheung Shui"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0540",
+      "lastTrain": "0034",
+      "station": "Sheung Shui"
+    }
+  ],
+  "Lo Wu": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0555",
+      "lastTrain": "2202",
+      "station": "Lo Wu"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0555",
+      "lastTrain": "0000",
+      "station": "Lo Wu"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0555",
+      "lastTrain": "0030",
+      "station": "Lo Wu"
+    }
+  ],
+  "Lok Ma Chau": [
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0638",
+      "lastTrain": "2255",
+      "station": "Lok Ma Chau"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0638",
+      "lastTrain": "2255",
+      "station": "Lok Ma Chau"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Hung Hom",
+      "firstTrain": "0638",
+      "lastTrain": "2255",
+      "station": "Lok Ma Chau"
+    }
+  ],
+  "East Tsim Sha Tsui": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0601",
+      "lastTrain": "0045",
+      "station": "East Tsim Sha Tsui"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0555",
+      "lastTrain": "0034",
+      "station": "East Tsim Sha Tsui"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0601",
+      "lastTrain": "0050",
+      "station": "East Tsim Sha Tsui"
+    }
+  ],
+  "Sai Ying Pun": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0611",
+      "lastTrain": "0108",
+      "station": "Sai Ying Pun"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0603",
+      "lastTrain": "0054",
+      "station": "Sai Ying Pun"
+    }
+  ],
+  "HKU": [
+    {
+      "line": "Island Line",
+      "to": "Kennedy Town",
+      "firstTrain": "0613",
+      "lastTrain": "0110",
+      "station": "HKU"
+    },
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0601",
+      "lastTrain": "0052",
+      "station": "HKU"
+    }
+  ],
+  "Kennedy Town": [
+    {
+      "line": "Island Line",
+      "to": "Chai Wan",
+      "firstTrain": "0600",
+      "lastTrain": "0050",
+      "station": "Kennedy Town"
+    }
+  ],
+  "Ho Man Tin": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0606",
+      "lastTrain": "0049",
+      "station": "Ho Man Tin"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0614",
+      "lastTrain": "0030",
+      "station": "Ho Man Tin"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0614",
+      "lastTrain": "0050",
+      "station": "Ho Man Tin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Whampoa",
+      "firstTrain": "0614",
+      "lastTrain": "0052",
+      "station": "Ho Man Tin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0612",
+      "lastTrain": "0042",
+      "station": "Ho Man Tin"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0612",
+      "lastTrain": "0102",
+      "station": "Ho Man Tin"
+    }
+  ],
+  "Whampoa": [
+    {
+      "line": "Kwun Tong Line",
+      "to": "Tiu Keng Leng",
+      "firstTrain": "0610",
+      "lastTrain": "0040",
+      "station": "Whampoa"
+    },
+    {
+      "line": "Kwun Tong Line",
+      "to": "Kwun Tong",
+      "firstTrain": "0610",
+      "lastTrain": "0100",
+      "station": "Whampoa"
+    }
+  ],
+  "Ocean Park": [
+    {
+      "line": "South Island Line",
+      "to": "South Horizons",
+      "firstTrain": "0616",
+      "lastTrain": "0110",
+      "station": "Ocean Park"
+    },
+    {
+      "line": "South Island Line",
+      "to": "Admiralty",
+      "firstTrain": "0606",
+      "lastTrain": "0048",
+      "station": "Ocean Park"
+    }
+  ],
+  "Wong Chuk Hang": [
+    {
+      "line": "South Island Line",
+      "to": "South Horizons",
+      "firstTrain": "0617",
+      "lastTrain": "0112",
+      "station": "Wong Chuk Hang"
+    },
+    {
+      "line": "South Island Line",
+      "to": "Admiralty",
+      "firstTrain": "0604",
+      "lastTrain": "0046",
+      "station": "Wong Chuk Hang"
+    }
+  ],
+  "Lei Tung": [
+    {
+      "line": "South Island Line",
+      "to": "South Horizons",
+      "firstTrain": "0620",
+      "lastTrain": "0114",
+      "station": "Lei Tung"
+    },
+    {
+      "line": "South Island Line",
+      "to": "Admiralty",
+      "firstTrain": "0602",
+      "lastTrain": "0044",
+      "station": "Lei Tung"
+    }
+  ],
+  "South Horizons": [
+    {
+      "line": "South Island Line",
+      "to": "Admiralty",
+      "firstTrain": "0600",
+      "lastTrain": "0042",
+      "station": "South Horizons"
+    }
+  ],
+  "Hin Keng": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0618",
+      "lastTrain": "0102",
+      "station": "Hin Keng"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0600",
+      "lastTrain": "0016",
+      "station": "Hin Keng"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0600",
+      "lastTrain": "0036",
+      "station": "Hin Keng"
+    }
+  ],
+  "Kai Tak": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0612",
+      "lastTrain": "0055",
+      "station": "Kai Tak"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0608",
+      "lastTrain": "0023",
+      "station": "Kai Tak"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0608",
+      "lastTrain": "0043",
+      "station": "Kai Tak"
+    }
+  ],
+  "Sung Wong Toi": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0610",
+      "lastTrain": "0053",
+      "station": "Sung Wong Toi"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0610",
+      "lastTrain": "0025",
+      "station": "Sung Wong Toi"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0610",
+      "lastTrain": "0045",
+      "station": "Sung Wong Toi"
+    }
+  ],
+  "To Kwa Wan": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0608",
+      "lastTrain": "0051",
+      "station": "To Kwa Wan"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0612",
+      "lastTrain": "0027",
+      "station": "To Kwa Wan"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0612",
+      "lastTrain": "0047",
+      "station": "To Kwa Wan"
+    }
+  ],
+  "Exhibition Centre": [
+    {
+      "line": "East Rail Line",
+      "to": "Lok Ma Chau",
+      "firstTrain": "0613",
+      "lastTrain": "2131",
+      "station": "Exhibition Centre"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Lo Wu",
+      "firstTrain": "0607",
+      "lastTrain": "2303",
+      "station": "Exhibition Centre"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Sheung Shui",
+      "firstTrain": "0607",
+      "lastTrain": "0024",
+      "station": "Exhibition Centre"
+    },
+    {
+      "line": "East Rail Line",
+      "to": "Admiralty",
+      "firstTrain": "0558",
+      "lastTrain": "0049",
+      "station": "Exhibition Centre"
+    }
+  ],
+  "Che Kung Temple": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0542",
+      "lastTrain": "0107",
+      "station": "Che Kung Temple"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0556",
+      "lastTrain": "0012",
+      "station": "Che Kung Temple"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0556",
+      "lastTrain": "0032",
+      "station": "Che Kung Temple"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0556",
+      "lastTrain": "0057",
+      "station": "Che Kung Temple"
+    }
+  ],
+  "Sha Tin Wai": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0544",
+      "lastTrain": "0109",
+      "station": "Sha Tin Wai"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0553",
+      "lastTrain": "0009",
+      "station": "Sha Tin Wai"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0553",
+      "lastTrain": "0029",
+      "station": "Sha Tin Wai"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0553",
+      "lastTrain": "0054",
+      "station": "Sha Tin Wai"
+    }
+  ],
+  "City One": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0546",
+      "lastTrain": "0112",
+      "station": "City One"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0551",
+      "lastTrain": "0007",
+      "station": "City One"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0551",
+      "lastTrain": "0027",
+      "station": "City One"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0551",
+      "lastTrain": "0052",
+      "station": "City One"
+    }
+  ],
+  "Shek Mun": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0548",
+      "lastTrain": "0114",
+      "station": "Shek Mun"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0549",
+      "lastTrain": "0005",
+      "station": "Shek Mun"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0549",
+      "lastTrain": "0025",
+      "station": "Shek Mun"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0549",
+      "lastTrain": "0050",
+      "station": "Shek Mun"
+    }
+  ],
+  "Tai Shui Hang": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0552",
+      "lastTrain": "0118",
+      "station": "Tai Shui Hang"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0545",
+      "lastTrain": "0001",
+      "station": "Tai Shui Hang"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0545",
+      "lastTrain": "0021",
+      "station": "Tai Shui Hang"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0545",
+      "lastTrain": "0046",
+      "station": "Tai Shui Hang"
+    }
+  ],
+  "Heng On": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0554",
+      "lastTrain": "0120",
+      "station": "Heng On"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0543",
+      "lastTrain": "2359",
+      "station": "Heng On"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0543",
+      "lastTrain": "0019",
+      "station": "Heng On"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0543",
+      "lastTrain": "0044",
+      "station": "Heng On"
+    }
+  ],
+  "Ma On Shan": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0556",
+      "lastTrain": "0122",
+      "station": "Ma On Shan"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0541",
+      "lastTrain": "2357",
+      "station": "Ma On Shan"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0541",
+      "lastTrain": "0017",
+      "station": "Ma On Shan"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0541",
+      "lastTrain": "0042",
+      "station": "Ma On Shan"
+    }
+  ],
+  "Wu Kai Sha": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0538",
+      "lastTrain": "2354",
+      "station": "Wu Kai Sha"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0538",
+      "lastTrain": "0014",
+      "station": "Wu Kai Sha"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tai Wai",
+      "firstTrain": "0538",
+      "lastTrain": "0039",
+      "station": "Wu Kai Sha"
+    }
+  ],
+  "Austin": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0618",
+      "lastTrain": "0042",
+      "station": "Austin"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0558",
+      "lastTrain": "0037",
+      "station": "Austin"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0618",
+      "lastTrain": "0048",
+      "station": "Austin"
+    }
+  ],
+  "Tsuen Wan West": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0607",
+      "lastTrain": "0031",
+      "station": "Tsuen Wan West"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0609",
+      "lastTrain": "0048",
+      "station": "Tsuen Wan West"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0607",
+      "lastTrain": "0037",
+      "station": "Tsuen Wan West"
+    }
+  ],
+  "Kam Sheung Road": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0601",
+      "lastTrain": "0025",
+      "station": "Kam Sheung Road"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0603",
+      "lastTrain": "0054",
+      "station": "Kam Sheung Road"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0601",
+      "lastTrain": "0031",
+      "station": "Kam Sheung Road"
+    }
+  ],
+  "Yuen Long": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0557",
+      "lastTrain": "0021",
+      "station": "Yuen Long"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0607",
+      "lastTrain": "0058",
+      "station": "Yuen Long"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0557",
+      "lastTrain": "0027",
+      "station": "Yuen Long"
+    }
+  ],
+  "Long Ping": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0555",
+      "lastTrain": "0019",
+      "station": "Long Ping"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0609",
+      "lastTrain": "0100",
+      "station": "Long Ping"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0555",
+      "lastTrain": "0025",
+      "station": "Long Ping"
+    }
+  ],
+  "Tin Shui Wai": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0552",
+      "lastTrain": "0016",
+      "station": "Tin Shui Wai"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0612",
+      "lastTrain": "0103",
+      "station": "Tin Shui Wai"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0552",
+      "lastTrain": "0022",
+      "station": "Tin Shui Wai"
+    }
+  ],
+  "Siu Hong": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0548",
+      "lastTrain": "0012",
+      "station": "Siu Hong"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0617",
+      "lastTrain": "0107",
+      "station": "Siu Hong"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0548",
+      "lastTrain": "0018",
+      "station": "Siu Hong"
+    }
+  ],
+  "Tuen Mun": [
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0545",
+      "lastTrain": "0009",
+      "station": "Tuen Mun"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0545",
+      "lastTrain": "0015",
+      "station": "Tuen Mun"
+    }
+  ]
+}

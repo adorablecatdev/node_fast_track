@@ -1,0 +1,9171 @@
+{
+  "central_to_pc": {
+    "company": "ferry",
+    "route_id": "central_to_pc",
+    "stop_id": "central_to_pc",
+    "route_tc": "中環 至 坪洲",
+    "route_en": "Central to Peng Chau",
+    "from_tc": "中環",
+    "to_tc": "坪洲",
+    "from_en": "Central",
+    "to_en": "Peng Chau",
+    "from_lat": "22.28752248898178",
+    "from_long": "114.16033625185742",
+    "to_lat": "22.284218435979867",
+    "to_long": "114.037923872701955",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:40 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:10 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "1"
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "12:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "3:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:05 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:45 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:10 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:50 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:50 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:40 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "pc_to_central": {
+    "company": "ferry",
+    "route_id": "pc_to_central",
+    "stop_id": "pc_to_central",
+    "route_tc": "坪洲 至 中環",
+    "route_en": "Peng Chau to Central",
+    "from_tc": "坪洲",
+    "to_tc": "中環",
+    "from_en": "Peng Chau",
+    "to_en": "Central",
+    "from_lat": "22.284218435979867",
+    "from_long": "114.037923872701955",
+    "to_lat": "22.28752248898178",
+    "to_long": "114.16033625185742",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "3:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "6:15 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:20 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:45 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:45 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:55 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:45 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "3:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:20 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:35 PM",
+          "remark": "1"
+        }
+      ]
+    }
+  },
+  "pc_to_hlc": {
+    "company": "ferry",
+    "route_id": "pc_to_hlc",
+    "stop_id": "pc_to_hlc",
+    "route_tc": "坪洲 至 喜靈洲",
+    "route_en": "Peng Chau to Hei Ling Chau",
+    "from_tc": "坪洲",
+    "to_tc": "喜靈洲",
+    "from_en": "Peng Chau",
+    "to_en": "Hei Ling Chau",
+    "from_lat": "22.284586097619368",
+    "from_long": "114.03715037371795",
+    "to_lat": "22.257939893549395",
+    "to_long": "114.02773876437128",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "9:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 AM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:10 AM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "hlc_to_pc": {
+    "company": "ferry",
+    "route_id": "hlc_to_pc",
+    "stop_id": "hlc_to_pc",
+    "route_tc": "喜靈洲 至 坪洲",
+    "route_en": "Hei Ling Chau to Peng Chau",
+    "from_tc": "喜靈洲",
+    "to_tc": "坪洲",
+    "from_en": "Hei Ling Chau",
+    "to_en": "Peng Chau",
+    "from_lat": "22.257939893549395",
+    "from_long": "114.02773876437128",
+    "to_lat": "22.284586097619368",
+    "to_long": "114.03715037371795",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "7:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:55 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "6:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "central_to_ysw": {
+    "company": "ferry",
+    "route_id": "central_to_ysw",
+    "stop_id": "central_to_ysw",
+    "route_tc": "中環 至 榕樹灣",
+    "route_en": "Central to Yung Shue Wan",
+    "from_tc": "中環",
+    "to_tc": "榕樹灣",
+    "from_en": "Central",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "22.28798588470299",
+    "from_long": "114.15842952468516",
+    "to_lat": "22.22637523321124",
+    "to_long": "114.10879634658706",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "6:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:50 AM",
+          "remark": "2"
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "8:50 AM",
+          "remark": "2"
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "10:10 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:45 PM",
+          "remark": "2"
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "3:15 PM",
+          "remark": "2"
+        },
+        {
+          "time": "3:50 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:40 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 PM",
+          "remark": "2"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "2"
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "9:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "10:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "12:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "2:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "3:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "3"
+        },
+        {
+          "time": "5:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "3"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "3"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "3"
+        },
+        {
+          "time": "8:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "10:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "2"
+        }
+      ]
+    }
+  },
+  "ysw_to_central": {
+    "company": "ferry",
+    "route_id": "ysw_to_central",
+    "stop_id": "ysw_to_central",
+    "route_tc": "榕樹灣 至 中環",
+    "route_en": "Yung Shue Wan to Central",
+    "from_tc": "榕樹灣",
+    "to_tc": "中環",
+    "from_en": "Yung Shue Wan",
+    "to_en": "Central",
+    "from_lat": "22.22637523321124",
+    "from_long": "114.10879634658706",
+    "to_lat": "22.28798588470299",
+    "to_long": "114.15842952468516",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "5:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:20 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "8:20 AM",
+          "remark": "2"
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "9:20 AM",
+          "remark": "2"
+        },
+        {
+          "time": "9:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:20 AM",
+          "remark": "2"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:45 PM",
+          "remark": "2"
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "3:15 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:15 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 PM",
+          "remark": "2"
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "5:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": "3"
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "9:00 AM",
+          "remark": "3"
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "10:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:00 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": "3"
+        },
+        {
+          "time": "12:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:00 PM",
+          "remark": "3"
+        },
+        {
+          "time": "1:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "2:00 PM",
+          "remark": "3"
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "3:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "8:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "10:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "2"
+        }
+      ]
+    }
+  },
+  "central_to_skw": {
+    "company": "ferry",
+    "route_id": "central_to_skw",
+    "stop_id": "central_to_skw",
+    "route_tc": "中環 至 索罟灣",
+    "route_en": "Central to Sok Kwu Wan",
+    "from_tc": "中環",
+    "to_tc": "索罟灣",
+    "from_en": "Central",
+    "to_en": "Sok Kwu Wan",
+    "from_lat": "22.28800326315966",
+    "from_long": "114.15844581316922",
+    "to_lat": "22.20565115216785",
+    "to_long": "114.13089167253622",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:50 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:35 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:05 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:35 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "skw_to_central": {
+    "company": "ferry",
+    "route_id": "skw_to_central",
+    "stop_id": "skw_to_central",
+    "route_tc": "索罟灣 至 中環",
+    "route_en": "Sok Kwu Wan to Central",
+    "from_tc": "索罟灣",
+    "to_tc": "中環",
+    "from_en": "Sok Kwu Wan",
+    "to_en": "Central",
+    "from_lat": "22.20565115216785",
+    "from_long": "114.13089167253622",
+    "to_lat": "22.28800326315966",
+    "to_long": "114.15844581316922",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "6:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "6:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:50 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:50 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:35 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "central_to_mw": {
+    "company": "ferry",
+    "route_id": "central_to_mw",
+    "stop_id": "central_to_mw",
+    "route_tc": "中環 至 梅窩",
+    "route_en": "Central to Mui Wo",
+    "from_tc": "中環",
+    "to_tc": "梅窩",
+    "from_en": "Central",
+    "to_en": "Mui Wo",
+    "from_lat": "22.28754390279321",
+    "from_long": "114.16034816932381",
+    "to_lat": "22.265126357590045",
+    "to_long": "114.00235590233477",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 AM",
+          "remark": "1"
+        },
+        {
+          "time": "6:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:40 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 AM",
+          "remark": "1"
+        },
+        {
+          "time": "6:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:40 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:40 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、日及公眾假期": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mw_to_central": {
+    "company": "ferry",
+    "route_id": "mw_to_central",
+    "stop_id": "mw_to_central",
+    "route_tc": "梅窩 至 中環",
+    "route_en": "Mui Wo to Central",
+    "from_tc": "梅窩",
+    "to_tc": "中環",
+    "from_en": "Mui Wo",
+    "to_en": "Central",
+    "from_lat": "22.265126357590045",
+    "from_long": "114.00235590233477",
+    "to_lat": "22.28754390279321",
+    "to_long": "114.16034816932381",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "3:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:55 AM",
+          "remark": "1"
+        },
+        {
+          "time": "6:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:10 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "3:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:55 AM",
+          "remark": "1"
+        },
+        {
+          "time": "6:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:10 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "3:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": "2"
+        },
+        {
+          "time": "7:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "12:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、日及公眾假期": [
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "cc_to_mw": {
+    "company": "ferry",
+    "route_id": "cc_to_mw",
+    "stop_id": "cc_to_mw",
+    "route_tc": "長洲 至 梅窩",
+    "route_en": "Cheung Chau to Mui Wo",
+    "from_tc": "長洲",
+    "to_tc": "梅窩",
+    "from_en": "Cheung Chau",
+    "to_en": "Mui Wo",
+    "from_lat": "22.287845964633785",
+    "from_long": "114.15944967334369",
+    "to_lat": "22.26513650507263",
+    "to_long": "114.00239556266564",
+    "schedule": {
+      "每天": [
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:50 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mu_to_pc": {
+    "company": "ferry",
+    "route_id": "mu_to_pc",
+    "stop_id": "mu_to_pc",
+    "route_tc": "梅窩 至 坪洲",
+    "route_en": "Mui Wo to Peng Chau",
+    "from_tc": "梅窩",
+    "to_tc": "坪洲",
+    "from_en": "Mui Wo",
+    "to_en": "Peng Chau",
+    "from_lat": "22.26513650507263",
+    "from_long": "114.00239556266564",
+    "to_lat": "22.284215300831672",
+    "to_long": "114.0379147366289",
+    "schedule": {
+      "每天": [
+        {
+          "time": "6:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:20 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "pc_to_mu": {
+    "company": "ferry",
+    "route_id": "pc_to_mu",
+    "stop_id": "pc_to_mu",
+    "route_tc": "坪洲 至 梅窩",
+    "route_en": "Peng Chau to Mui Wo",
+    "from_tc": "坪洲",
+    "to_tc": "梅窩",
+    "from_en": "Peng Chau",
+    "to_en": "Mui Wo",
+    "from_lat": "22.284215300831672",
+    "from_long": "114.0379147366289",
+    "to_lat": "22.26513650507263",
+    "to_long": "114.00239556266564",
+    "schedule": {
+      "每天": [
+        {
+          "time": "5:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:55 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:55 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:40 PM",
+          "remark": "2"
+        }
+      ],
+      "星期一至五(學校假期除外)": [
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mw_to_cmw": {
+    "company": "ferry",
+    "route_id": "mw_to_cmw",
+    "stop_id": "mw_to_cmw",
+    "route_tc": "梅窩 至 芝蔴灣",
+    "route_en": "Mui Wo to Chi Ma Wan",
+    "from_tc": "梅窩",
+    "to_tc": "芝蔴灣",
+    "from_en": "Mui Wo",
+    "to_en": "Chi Ma Wan",
+    "from_lat": "22.26513650507263",
+    "from_long": "114.00239556266564",
+    "to_lat": "22.23960335258679",
+    "to_long": "114.00000456212175",
+    "schedule": {
+      "每天": [
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "cmw_to_cc": {
+    "company": "ferry",
+    "route_id": "cmw_to_cc",
+    "stop_id": "cmw_to_cc",
+    "route_tc": "芝蔴灣 至 長洲",
+    "route_en": "Chi Ma Wan to Cheung Chau",
+    "from_tc": "芝蔴灣",
+    "to_tc": "長洲",
+    "from_en": "Chi Ma Wan",
+    "to_en": "Cheung Chau",
+    "from_lat": "22.23963521439981",
+    "from_long": "114.00006960110758",
+    "to_lat": "22.287845964633785",
+    "to_long": "114.15944967334369",
+    "schedule": {
+      "每天": [
+        {
+          "time": "6:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "cc_to_cmw": {
+    "company": "ferry",
+    "route_id": "cc_to_cmw",
+    "stop_id": "cc_to_cmw",
+    "route_tc": "長洲 至 芝蔴灣",
+    "route_en": "Cheung Chau to Chi Ma Wan",
+    "from_tc": "長洲",
+    "to_tc": "芝蔴灣",
+    "from_en": "Cheung Chau",
+    "to_en": "Chi Ma Wan",
+    "from_lat": "22.287845964633785",
+    "from_long": "114.15944967334369",
+    "to_lat": "22.23963521439981",
+    "to_long": "114.00006960110758",
+    "schedule": {
+      "每天": [
+        {
+          "time": "6:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "cmw_to_mw": {
+    "company": "ferry",
+    "route_id": "cmw_to_mw",
+    "stop_id": "cmw_to_mw",
+    "route_tc": "芝蔴灣 至 梅窩",
+    "route_en": "Chi Ma Wan to Mui Wo",
+    "from_tc": "芝蔴灣",
+    "to_tc": "梅窩",
+    "from_en": "Chi Ma Wan",
+    "to_en": "Mui Wo",
+    "from_lat": "22.23960335258679",
+    "from_long": "114.00000456212175",
+    "to_lat": "22.26513650507263",
+    "to_long": "114.00239556266564",
+    "schedule": {
+      "每天": [
+        {
+          "time": "6:52 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:05 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mw_to_cc": {
+    "company": "ferry",
+    "route_id": "mw_to_cc",
+    "stop_id": "mw_to_cc",
+    "route_tc": "梅窩 至 長洲",
+    "route_en": "Mui Wo to Cheung Chau",
+    "from_tc": "梅窩",
+    "to_tc": "長洲",
+    "from_en": "Mui Wo",
+    "to_en": "Cheung Chau",
+    "from_lat": "22.26513650507263",
+    "from_long": "114.00239556266564",
+    "to_lat": "22.287845964633785",
+    "to_long": "114.15944967334369",
+    "schedule": {
+      "每天": [
+        {
+          "time": "12:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:20 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "central_to_cc": {
+    "company": "ferry",
+    "route_id": "central_to_cc",
+    "stop_id": "central_to_cc",
+    "route_tc": "中環 至 長洲",
+    "route_en": "Central to Cheung Chau",
+    "from_tc": "中環",
+    "to_tc": "長洲",
+    "from_en": "Central",
+    "to_en": "Cheung Chau",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.287845964633785",
+    "to_long": "114.15944967334369",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "12:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": "2"
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "3"
+        },
+        {
+          "time": "7:40 PM",
+          "remark": "4"
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:45 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:55 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "cc_to_central": {
+    "company": "ferry",
+    "route_id": "cc_to_central",
+    "stop_id": "cc_to_central",
+    "route_tc": "長洲 至 中環",
+    "route_en": "Cheung Chau to Central",
+    "from_tc": "長洲",
+    "to_tc": "中環",
+    "from_en": "Cheung Chau",
+    "to_en": "Central",
+    "from_lat": "22.287845964633785",
+    "from_long": "114.15944967334369",
+    "to_lat": "22.287468951716303",
+    "to_long": "114.16032468805086",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "2:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "6:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:55 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "12:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:15 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:45 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "2:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "1"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": "1"
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "1"
+        }
+      ]
+    }
+  },
+  "central_to_discovery_bay": {
+    "company": "ferry",
+    "route_id": "central_to_discovery_bay",
+    "stop_id": "central_to_discovery_bay",
+    "route_tc": "中環 至 愉景灣",
+    "route_en": "Central to Discovery Bay",
+    "from_tc": "中環",
+    "to_tc": "愉景灣",
+    "from_en": "Central",
+    "to_en": "Discovery Bay",
+    "from_lat": "22.288362387852693",
+    "from_long": "114.15759791648978",
+    "to_lat": "22.296919086205282",
+    "to_long": "114.01780374018173",
+    "schedule": {
+      "星期一至星期一至五(公眾假期除外)": [
+        {
+          "time": "12:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "12:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日(公眾假期除外)": [
+        {
+          "time": "12:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "discovery_bay_to_central": {
+    "company": "ferry",
+    "route_id": "discovery_bay_to_central",
+    "stop_id": "discovery_bay_to_central",
+    "route_tc": "愉景灣 至 中環",
+    "route_en": "Discovery Bay to Central",
+    "from_tc": "愉景灣",
+    "to_tc": "中環",
+    "from_en": "Discovery Bay",
+    "to_en": "Central",
+    "from_lat": "22.296919086205282",
+    "from_long": "114.01780374018173",
+    "to_lat": "22.288362387852693",
+    "to_long": "114.15759791648978",
+    "schedule": {
+      "星期一至星期一至五(公眾假期除外)": [
+        {
+          "time": "12:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "12:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日(公眾假期除外)": [
+        {
+          "time": "12:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "np_to_hh": {
+    "company": "ferry",
+    "route_id": "np_to_hh",
+    "stop_id": "np_to_hh",
+    "route_tc": "北角 至 紅磡",
+    "route_en": "North Point to Hung Hom",
+    "from_tc": "北角",
+    "to_tc": "紅磡",
+    "from_en": "North Point",
+    "to_en": "Hung Hom",
+    "from_lat": "22.29460418721138",
+    "from_long": "114.20076301473682",
+    "to_lat": "22.301116461757026",
+    "to_long": "114.19019111973161",
+    "schedule": {
+      "每日": [
+        {
+          "time": "7:23 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:53 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:08 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:23 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:53 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:23 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:53 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:23 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:53 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:23 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:53 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:23 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:53 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:23 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:53 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:23 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:53 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:23 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:53 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:23 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:53 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:23 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:53 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:08 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:23 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:53 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:23 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "hh_to_np": {
+    "company": "ferry",
+    "route_id": "hh_to_np",
+    "stop_id": "hh_to_np",
+    "route_tc": "紅磡 至 北角",
+    "route_en": "Hung Hom to North Point",
+    "from_tc": "紅磡",
+    "to_tc": "北角",
+    "from_en": "Hung Hom",
+    "to_en": "North Point",
+    "from_lat": "22.301116461757026",
+    "from_long": "114.19019111973161",
+    "to_lat": "22.29460418721138",
+    "to_long": "114.20076301473682",
+    "schedule": {
+      "每日": [
+        {
+          "time": "7:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:20 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:20 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:35 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "np_to_kowloon_city": {
+    "company": "ferry",
+    "route_id": "np_to_kowloon_city",
+    "stop_id": "np_to_kowloon_city",
+    "route_tc": "北角 至 九龍城",
+    "route_en": "North Point to Kowloon City",
+    "from_tc": "北角",
+    "to_tc": "九龍城",
+    "from_en": "North Point",
+    "to_en": "Kowloon City",
+    "from_lat": "22.294264031340266, ",
+    "from_long": "114.1997507047474",
+    "to_lat": "22.317799046377228, ",
+    "to_long": "114.19444395437488",
+    "schedule": {
+      "每日": [
+        {
+          "time": "7:17 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:47 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:17 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:32 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:47 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:17 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:47 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:17 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:47 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:17 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:47 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:17 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:47 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:17 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:47 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:17 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:47 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:17 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:47 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:17 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:47 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:17 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:47 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:17 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:32 PM",
+          "remark": "1"
+        },
+        {
+          "time": "6:47 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:17 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "kowloon_city_to_np": {
+    "company": "ferry",
+    "route_id": "kowloon_city_to_np",
+    "stop_id": "kowloon_city_to_np",
+    "route_tc": "九龍城 至 北角",
+    "route_en": "Kowloon City to North Point",
+    "from_tc": "九龍城",
+    "to_tc": "北角",
+    "from_en": "Kowloon City",
+    "to_en": "North Point",
+    "from_lat": "22.317799046377228, ",
+    "from_long": "114.19444395437488",
+    "to_lat": "22.294264031340266, ",
+    "to_long": "114.1997507047474",
+    "schedule": {
+      "每日": [
+        {
+          "time": "7:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:50 PM",
+          "remark": "1"
+        },
+        {
+          "time": "7:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:35 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "np_to_kt": {
+    "company": "ferry",
+    "route_id": "np_to_kt",
+    "stop_id": "np_to_kt",
+    "route_tc": "北角 至 觀塘",
+    "route_en": "North Point to Kwun Tong",
+    "from_tc": "北角",
+    "to_tc": "觀塘",
+    "from_en": "North Point",
+    "to_en": "Kwun Tong",
+    "from_lat": "22.29460418721138",
+    "from_long": "114.20076301473682",
+    "to_lat": "22.306197080899846",
+    "to_long": "114.2214395668936",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "kt_to_np": {
+    "company": "ferry",
+    "route_id": "kt_to_np",
+    "stop_id": "kt_to_np",
+    "route_tc": "觀塘 至 北角 ",
+    "route_en": "Kwun Tong to North Point",
+    "from_tc": "觀塘",
+    "to_tc": "北角",
+    "from_en": "Kwun Tong",
+    "to_en": "North Point",
+    "from_lat": "22.306197080899846",
+    "from_long": "114.2214395668936",
+    "to_lat": "22.29460418721138",
+    "to_long": "114.20076301473682",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "7:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "7:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:35 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:35 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "": {
+    "company": "ferry",
+    "route_id": "",
+    "stop_id": "",
+    "route_tc": "",
+    "route_en": "",
+    "from_tc": "",
+    "to_tc": "",
+    "from_en": "",
+    "to_en": "",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": "",
+    "schedule": {
+      "星期六(公眾假期除外)": [
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "kt_to_kt": {
+    "company": "ferry",
+    "route_id": "kt_to_kt",
+    "stop_id": "kt_to_kt",
+    "route_tc": "觀塘 至 啟德 ",
+    "route_en": "Kai Tak to Kwun Tong",
+    "from_tc": "觀塘",
+    "to_tc": "啟德",
+    "from_en": "Kwun Tong",
+    "to_en": "Kai Tak",
+    "from_lat": "22.265069622030296",
+    "from_long": "114.00212335873759",
+    "to_lat": "22.3098344088619",
+    "to_long": "114.21306964188604",
+    "schedule": {
+      "星期六(公眾假期除外)": [
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:25 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:25 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "swh_to_kt": {
+    "company": "ferry",
+    "route_id": "swh_to_kt",
+    "stop_id": "swh_to_kt",
+    "route_tc": "西灣河 至 觀塘",
+    "route_en": "Sai Wan Ho to Kwun Tong",
+    "from_tc": "西灣河",
+    "to_tc": "觀塘",
+    "from_en": "Sai Wan Ho",
+    "to_en": "Kwun Tong",
+    "from_lat": "22.286427279860412",
+    "from_long": "114.22410865177301",
+    "to_lat": "22.308601774256037,",
+    "to_long": "114.22010785327146",
+    "schedule": {
+      "每日": [
+        {
+          "time": "7:03 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:33 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:03 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:33 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:03 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:33 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:03 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:33 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:03 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:33 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:40 PM",
+          "remark": " "
+        }
+      ],
+      "逢星期一至五(公眾假期除外)": [
+        {
+          "time": "8:18 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:48 AM",
+          "remark": "1"
+        }
+      ]
+    }
+  },
+  "kt_to_swh": {
+    "company": "ferry",
+    "route_id": "kt_to_swh",
+    "stop_id": "kt_to_swh",
+    "route_tc": "觀塘 至 西灣河",
+    "route_en": "Kwun Tong to Sai Wan Ho",
+    "from_tc": "觀塘",
+    "to_tc": "西灣河",
+    "from_en": "Kwun Tong",
+    "to_en": "Sai Wan Ho",
+    "from_lat": "22.308601774256037,",
+    "from_long": "114.22010785327146",
+    "to_lat": "22.286427279860412",
+    "to_long": "114.22410865177301",
+    "schedule": {
+      "每日": [
+        {
+          "time": "6:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:18 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:18 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:18 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:18 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:18 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:48 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:18 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "swh_to_skt": {
+    "company": "ferry",
+    "route_id": "swh_to_skt",
+    "stop_id": "swh_to_skt",
+    "route_tc": "西灣河 至 三家村",
+    "route_en": "Sai Wan Ho to Sam Ka Tsuen",
+    "from_tc": "西灣河",
+    "to_tc": "三家村",
+    "from_en": "Sai Wan Ho",
+    "to_en": "Sam Ka Tsuen",
+    "from_lat": "22.286427279860412",
+    "from_long": "114.22410865177301",
+    "to_lat": "22.29099521475805",
+    "to_long": "114.2363052720202",
+    "schedule": {
+      "每日": [
+        {
+          "time": "7:12 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:36 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:24 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:45 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "skt_to_swh": {
+    "company": "ferry",
+    "route_id": "skt_to_swh",
+    "stop_id": "skt_to_swh",
+    "route_tc": "三家村 至 西灣河",
+    "route_en": "Sam Ka Tsuen to Sai Wan Ho",
+    "from_tc": "三家村",
+    "to_tc": "西灣河",
+    "from_en": "Sam Ka Tsuen",
+    "to_en": "Sai Wan Ho",
+    "from_lat": "22.29099521475805",
+    "from_long": "114.2363052720202",
+    "to_lat": "22.286427279860412",
+    "to_long": "114.22410865177301",
+    "schedule": {
+      "每日": [
+        {
+          "time": "7:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:24 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:48 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:12 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:36 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mw_to_discovery_bay_via_pc": {
+    "company": "ferry",
+    "route_id": "mw_to_discovery_bay_via_pc",
+    "stop_id": "mw_to_discovery_bay_via_pc",
+    "route_tc": "梅窩 至 愉景灣 經 坪洲",
+    "route_en": "Mui Wo to Discovery Bay via Peng Chau",
+    "from_tc": "梅窩",
+    "to_tc": "愉景灣 經 坪洲",
+    "from_en": "Mui Wo",
+    "to_en": "Discovery Bay via Peng Chau",
+    "from_lat": "22.265170739732653",
+    "from_long": "114.00239563478723",
+    "to_lat": "22.296914187068822",
+    "to_long": "114.01778172611053",
+    "schedule": {
+      "星期一至五(學校假期除外)": [
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "pc_to_discovery_bay": {
+    "company": "ferry",
+    "route_id": "pc_to_discovery_bay",
+    "stop_id": "pc_to_discovery_bay",
+    "route_tc": "坪洲 至 愉景灣",
+    "route_en": "Peng Chau to Discovery Bay",
+    "from_tc": "坪洲",
+    "to_tc": "愉景灣",
+    "from_en": "Peng Chau",
+    "to_en": "Discovery Bay",
+    "from_lat": "22.28421502067914",
+    "from_long": "114.03792060164015",
+    "to_lat": "22.296914187068822",
+    "to_long": "114.01778172611053",
+    "schedule": {
+      "星期一至五(學校假期除外)": [
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "discovery_bay_to_mw_via_pc": {
+    "company": "ferry",
+    "route_id": "discovery_bay_to_mw_via_pc",
+    "stop_id": "discovery_bay_to_mw_via_pc",
+    "route_tc": "愉景灣 至梅窩 經 坪洲",
+    "route_en": "Discovery Bay to Mui Wovia Peng Chau",
+    "from_tc": "愉景灣",
+    "to_tc": "梅窩 經 坪洲",
+    "from_en": "Discovery Bay",
+    "to_en": "Mui Wo via Peng Chau",
+    "from_lat": "22.296914187068822",
+    "from_long": "114.01778172611053",
+    "to_lat": "22.265170739732653",
+    "to_long": "114.00239563478723",
+    "schedule": {
+      "星期一至五(學校假期除外)": [
+        {
+          "time": "3:10 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "discovery_bay_to_mw": {
+    "company": "ferry",
+    "route_id": "discovery_bay_to_mw",
+    "stop_id": "discovery_bay_to_mw",
+    "route_tc": "愉景灣 至 梅窩",
+    "route_en": "Discovery Bay to Mui Wo",
+    "from_tc": "愉景灣",
+    "to_tc": "梅窩",
+    "from_en": "Discovery Bay",
+    "to_en": "Mui Wo",
+    "from_lat": "22.296914187068822",
+    "from_long": "114.01778172611053",
+    "to_lat": "22.265170739732653",
+    "to_long": "114.00239563478723",
+    "schedule": {
+      "星期六、日及公眾假期": [
+        {
+          "time": "7:15 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:45 AM",
+          "remark": "2"
+        },
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:45 AM",
+          "remark": "2"
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:05 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:05 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mw_to_discovery_bay": {
+    "company": "ferry",
+    "route_id": "mw_to_discovery_bay",
+    "stop_id": "mw_to_discovery_bay",
+    "route_tc": "梅窩 至 愉景灣",
+    "route_en": "Mui Wo to Discovery Bay",
+    "from_tc": "梅窩",
+    "to_tc": "愉景灣",
+    "from_en": "Mui Wo",
+    "to_en": "Discovery Bay",
+    "from_lat": "22.265170739732653",
+    "from_long": "114.00239563478723",
+    "to_lat": "22.296914187068822",
+    "to_long": "114.01778172611053",
+    "schedule": {
+      "星期六、日及公眾假期": [
+        {
+          "time": "7:45 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:15 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:35 PM",
+          "remark": "2"
+        },
+        {
+          "time": "4:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "tm_to_to": {
+    "company": "ferry",
+    "route_id": "tm_to_to",
+    "stop_id": "tm_to_to",
+    "route_tc": "屯門 至 大澳",
+    "route_en": "Tuen Mun to Tai O",
+    "from_tc": "屯門",
+    "to_tc": "大澳",
+    "from_en": "Tuen Mun",
+    "to_en": "Tai O",
+    "from_lat": "22.371240006330964",
+    "from_long": "113.9659366476148",
+    "to_lat": "22.252706923597696",
+    "to_long": "113.86129740794462",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "7:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "1"
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "7:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": "2"
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:10 AM",
+          "remark": "2,4"
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "1"
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:00 AM",
+          "remark": "1"
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": "2"
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 AM",
+          "remark": "2,4"
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:40 PM",
+          "remark": "2,4"
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": "1"
+        }
+      ]
+    }
+  },
+  "tc_to_to": {
+    "company": "ferry",
+    "route_id": "tc_to_to",
+    "stop_id": "tc_to_to",
+    "route_tc": "東涌 至 大澳",
+    "route_en": "Tung Chung to Tai O",
+    "from_tc": "東涌",
+    "to_tc": "大澳",
+    "from_en": "Tung Chung",
+    "to_en": "Tai O",
+    "from_lat": "22.294309536763546",
+    "from_long": "113.94036543858262",
+    "to_lat": "22.252706923597696",
+    "to_long": "113.86129740794462",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "9:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:25 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "9:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "5"
+        },
+        {
+          "time": "11:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": "4"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": "5"
+        },
+        {
+          "time": "3:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": "5"
+        },
+        {
+          "time": "5:25 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "8:55 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "5"
+        },
+        {
+          "time": "10:55 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:20 AM",
+          "remark": "4"
+        },
+        {
+          "time": "12:00 PM",
+          "remark": "5"
+        },
+        {
+          "time": "12:55 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:20 PM",
+          "remark": "4"
+        },
+        {
+          "time": "3:25 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": "5"
+        },
+        {
+          "time": "5:25 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "slw_to_to": {
+    "company": "ferry",
+    "route_id": "slw_to_to",
+    "stop_id": "slw_to_to",
+    "route_tc": "沙螺灣 至 大澳",
+    "route_en": "Sha Lo Wan to Tai O",
+    "from_tc": "沙螺灣",
+    "to_tc": "大澳",
+    "from_en": "Sha Lo Wan",
+    "to_en": "Tai O",
+    "from_lat": "22.292924643422236",
+    "from_long": "113.9042079432676",
+    "to_lat": "22.252706923597696",
+    "to_long": "113.86129740794462",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "9:37 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:37 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:37 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:37 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "9:37 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:47 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": "5"
+        },
+        {
+          "time": "11:37 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:10 PM",
+          "remark": "4"
+        },
+        {
+          "time": "12:15 PM",
+          "remark": "5"
+        },
+        {
+          "time": "3:37 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": "5"
+        },
+        {
+          "time": "5:37 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "9:07 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:17 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": "5"
+        },
+        {
+          "time": "11:07 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:40 AM",
+          "remark": "4"
+        },
+        {
+          "time": "12:15 PM",
+          "remark": "5"
+        },
+        {
+          "time": "1:07 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:40 PM",
+          "remark": "4"
+        },
+        {
+          "time": "3:37 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": "5"
+        },
+        {
+          "time": "5:37 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "to_to_tm": {
+    "company": "ferry",
+    "route_id": "to_to_tm",
+    "stop_id": "to_to_tm",
+    "route_tc": "大澳 至 屯門",
+    "route_en": "Tai O to Tuen Mun",
+    "from_tc": "大澳",
+    "to_tc": "屯門",
+    "from_en": "Tai O",
+    "to_en": "Tuen Mun",
+    "from_lat": "22.252706923597696",
+    "from_long": "113.86129740794462",
+    "to_lat": "22.371240006330964",
+    "to_long": "113.9659366476148",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": "1,5"
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": "1,5"
+        },
+        {
+          "time": "3:45 PM",
+          "remark": "2,4"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:00 PM",
+          "remark": "1,5"
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "2,3"
+        },
+        {
+          "time": "5:45 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "2,4"
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": "1,5"
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": "1,5"
+        },
+        {
+          "time": "3:45 PM",
+          "remark": "2,4"
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "5:00 PM",
+          "remark": "1,5"
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "2,3"
+        },
+        {
+          "time": "5:45 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 PM",
+          "remark": "2"
+        },
+        {
+          "time": "6:30 PM",
+          "remark": "2,4"
+        }
+      ]
+    }
+  },
+  "slw_to_tm": {
+    "company": "ferry",
+    "route_id": "slw_to_tm",
+    "stop_id": "slw_to_tm",
+    "route_tc": "沙螺灣 至 屯門",
+    "route_en": "Sha Lo Wan to Tuen Mun",
+    "from_tc": "沙螺灣",
+    "to_tc": "屯門",
+    "from_en": "Sha Lo Wan",
+    "to_en": "Tuen Mun",
+    "from_lat": "22.292924643422236",
+    "from_long": "113.9042079432676",
+    "to_lat": "22.371240006330964",
+    "to_long": "113.9659366476148",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "10:22 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:22 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "10:22 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 PM",
+          "remark": "5"
+        },
+        {
+          "time": "2:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": "5"
+        },
+        {
+          "time": "4:20 PM",
+          "remark": "4"
+        },
+        {
+          "time": "4:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:52 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "5"
+        },
+        {
+          "time": "6:07 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:32 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:05 PM",
+          "remark": "4"
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "9:52 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": "5"
+        },
+        {
+          "time": "11:52 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": "5"
+        },
+        {
+          "time": "4:20 PM",
+          "remark": "4"
+        },
+        {
+          "time": "4:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:52 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": "5"
+        },
+        {
+          "time": "6:07 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:22 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:32 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:05 PM",
+          "remark": "4"
+        }
+      ]
+    }
+  },
+  "tc_to_tm": {
+    "company": "ferry",
+    "route_id": "tc_to_tm",
+    "stop_id": "tc_to_tm",
+    "route_tc": "東涌 至 屯門",
+    "route_en": "Tung Chung to Tuen Mun",
+    "from_tc": "東涌",
+    "to_tc": "屯門",
+    "from_en": "Tung Chung",
+    "to_en": "Tuen Mun",
+    "from_lat": "22.294309536763546",
+    "from_long": "113.94036543858262",
+    "to_lat": "22.371240006330964",
+    "to_long": "113.9659366476148",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:33 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六(公眾假期除外)": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:33 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": "4"
+        },
+        {
+          "time": "4:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:43 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:25 PM",
+          "remark": "4"
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:03 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": "4"
+        },
+        {
+          "time": "4:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:03 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:18 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:33 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:43 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:25 PM",
+          "remark": "4"
+        },
+        {
+          "time": "7:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "aberdeen_to_skw": {
+    "company": "ferry",
+    "route_id": "aberdeen_to_skw",
+    "stop_id": "aberdeen_to_skw",
+    "route_tc": "香港仔 至 索罟灣",
+    "route_en": "Sok Kwu Wan to Aberdeen",
+    "from_tc": "香港仔",
+    "to_tc": "索罟灣",
+    "from_en": "Aberdeen",
+    "to_en": "Sok Kwu Wan",
+    "from_lat": "22.24760283589448",
+    "from_long": "114.15248225428178",
+    "to_lat": "22.20871779956178",
+    "to_long": "114.14573825691197",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "6:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:25 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "6:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:50 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "skw_to_aberdeen": {
+    "company": "ferry",
+    "route_id": "skw_to_aberdeen",
+    "stop_id": "skw_to_aberdeen",
+    "route_tc": "索罟灣 至 香港仔",
+    "route_en": "Aberdeen to Sok Kwu Wan",
+    "from_tc": "索罟灣",
+    "to_tc": "香港仔",
+    "from_en": "Sok Kwu Wan",
+    "to_en": "Aberdeen",
+    "from_lat": "22.20871779956178",
+    "from_long": "114.14573825691197",
+    "to_lat": "22.24760283589448",
+    "to_long": "114.15248225428178",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:45 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "aberdeen_to_ysw": {
+    "company": "ferry",
+    "route_id": "aberdeen_to_ysw",
+    "stop_id": "aberdeen_to_ysw",
+    "route_tc": "香港仔 至 榕樹灣",
+    "route_en": "Aberdeen to Yung Shue Wan",
+    "from_tc": "香港仔",
+    "to_tc": "榕樹灣",
+    "from_en": "Aberdeen",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "22.247259306765134",
+    "from_long": "114.15426324130722",
+    "to_lat": "22.226369789852626",
+    "to_long": "114.10881970341643",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "6:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "pkt_to_ysw": {
+    "company": "ferry",
+    "route_id": "pkt_to_ysw",
+    "stop_id": "pkt_to_ysw",
+    "route_tc": "北角村 至 榕樹灣",
+    "route_en": "Pak Kok Tsuen to Yung Shue Wan",
+    "from_tc": "北角村",
+    "to_tc": "榕樹灣",
+    "from_en": "Pak Kok Tsuen",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "22.236640200082434",
+    "from_long": "114.10994118644996",
+    "to_lat": "22.226369789852626",
+    "to_long": "114.10881970341643",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "6:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:55 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:25 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "10:25 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "ysw_to_aberdeen": {
+    "company": "ferry",
+    "route_id": "ysw_to_aberdeen",
+    "stop_id": "ysw_to_aberdeen",
+    "route_tc": "榕樹灣 至 香港仔",
+    "route_en": "Yung Shue Wan to Aberdeen",
+    "from_tc": "榕樹灣",
+    "to_tc": "香港仔",
+    "from_en": "Yung Shue Wan",
+    "to_en": "Aberdeen",
+    "from_lat": "22.226369789852626",
+    "from_long": "114.10881970341643",
+    "to_lat": "22.247259306765134",
+    "to_long": "114.15426324130722",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "6:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:55 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "8:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:25 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:55 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "pkt_to_aberdeen": {
+    "company": "ferry",
+    "route_id": "pkt_to_aberdeen",
+    "stop_id": "pkt_to_aberdeen",
+    "route_tc": "北角村 至 香港仔",
+    "route_en": "Pak Kok Tsuen to Aberdeen",
+    "from_tc": "北角村",
+    "to_tc": "香港仔",
+    "from_en": "Pak Kok Tsuen",
+    "to_en": "Aberdeen",
+    "from_lat": "22.236662993013365",
+    "from_long": "114.10996011981896",
+    "to_lat": "22.247126550411288",
+    "to_long": "114.1544006704264",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "6:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "8:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:55 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:55 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "9:20 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "hh_to_central": {
+    "company": "ferry",
+    "route_id": "hh_to_central",
+    "stop_id": "hh_to_central",
+    "route_tc": "紅磡 至 中環",
+    "route_en": "Hung Hom to Central",
+    "from_tc": "紅磡",
+    "to_tc": "中環",
+    "from_en": "Hung Hom",
+    "to_en": "Central",
+    "from_lat": "22.300495731804034",
+    "from_long": "114.18928751547155",
+    "to_lat": "22.286853523731388",
+    "to_long": "114.16211444347762",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "12:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:20 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "central_to_hh": {
+    "company": "ferry",
+    "route_id": "central_to_hh",
+    "stop_id": "central_to_hh",
+    "route_tc": "中環 至 紅磡",
+    "route_en": "Central to Hung Hom",
+    "from_tc": "中環",
+    "to_tc": "紅磡",
+    "from_en": "Central",
+    "to_en": "Hung Hom",
+    "from_lat": "22.286853523731388",
+    "from_long": "114.16211444347762",
+    "to_lat": "22.300495731804034",
+    "to_long": "114.18928751547155",
+    "schedule": {
+      "星期一至六(公眾假期除外)": [
+        {
+          "time": "7:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "7:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:50 PM",
+          "remark": " "
+        },
+        {
+          "time": "7:20 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "7:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "11:50 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:10 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": " "
+        },
+        {
+          "time": "5:20 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mls_to_sc": {
+    "company": "ferry",
+    "route_id": "mls_to_sc",
+    "stop_id": "mls_to_sc",
+    "route_tc": "馬料水 至 深涌",
+    "route_en": "Ma Liu Shui to Shum Chung",
+    "from_tc": "馬料水",
+    "to_tc": "深涌",
+    "from_en": "Ma Liu Shui",
+    "to_en": "Shum Chung",
+    "from_lat": "22.41725406739455",
+    "from_long": "114.21425236355932",
+    "to_lat": "22.440503959508433",
+    "to_long": "114.28165082164463",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:00 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "sc_to_lcc": {
+    "company": "ferry",
+    "route_id": "sc_to_lcc",
+    "stop_id": "sc_to_lcc",
+    "route_tc": "深涌 至 荔枝莊",
+    "route_en": "Shum Chung to Lai Chi Chong",
+    "from_tc": "深涌",
+    "to_tc": "荔枝莊",
+    "from_en": "Shum Chung",
+    "to_en": "Lai Chi Chong",
+    "from_lat": "22.440503959508433",
+    "from_long": "114.28165082164463",
+    "to_lat": "22.456848887826403",
+    "to_long": "114.29966773523833",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "lcc_to_tm_to_": {
+    "company": "ferry",
+    "route_id": "lcc_to_tm_to_",
+    "stop_id": "lcc_to_tm_to_",
+    "route_tc": "荔枝莊 至 塔門",
+    "route_en": "Lai Chi Chong to Tap Mun",
+    "from_tc": "荔枝莊",
+    "to_tc": "塔門",
+    "from_en": "Lai Chi Chong",
+    "to_en": "Tap Mun",
+    "from_lat": "22.456848887826403",
+    "from_long": "114.29966773523833",
+    "to_lat": "22.470400374780674",
+    "to_long": "114.35863195505226",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "9:15 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "tm_to_klw": {
+    "company": "ferry",
+    "route_id": "tm_to_klw",
+    "stop_id": "tm_to_klw",
+    "route_tc": "塔門 至 高流灣",
+    "route_en": "Tap Mun to Ko Lau Wan",
+    "from_tc": "塔門",
+    "to_tc": "高流灣",
+    "from_en": "Tap Mun",
+    "to_en": "Ko Lau Wan",
+    "from_lat": "22.470400374780674",
+    "from_long": "114.35863195505226",
+    "to_lat": "22.458587076358103",
+    "to_long": "114.36055248381042",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "10:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "klw_to_ck": {
+    "company": "ferry",
+    "route_id": "klw_to_ck",
+    "stop_id": "klw_to_ck",
+    "route_tc": "高流灣 至 赤徑",
+    "route_en": "Ko Lau Wan to Chek Keng",
+    "from_tc": "高流灣",
+    "to_tc": "赤徑",
+    "from_en": "Ko Lau Wan",
+    "to_en": "Chek Keng",
+    "from_lat": "22.458587076358103",
+    "from_long": "114.36055248381042",
+    "to_lat": "22.42229915083828",
+    "to_long": "114.35052762563647",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "10:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:25 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "10:05 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:25 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "ck_to_ws_pier": {
+    "company": "ferry",
+    "route_id": "ck_to_ws_pier",
+    "stop_id": "ck_to_ws_pier",
+    "route_tc": "赤徑 至 黃石碼頭",
+    "route_en": "Chek Keng to Wong Shek Pier",
+    "from_tc": "赤徑",
+    "to_tc": "黃石碼頭",
+    "from_en": "Chek Keng",
+    "to_en": "Wong Shek Pier",
+    "from_lat": "22.42229915083828",
+    "from_long": "114.35052762563647",
+    "to_lat": "22.43566335064106",
+    "to_long": "114.33719915224556",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "10:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "10:20 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:40 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "ws_pier_to_ck": {
+    "company": "ferry",
+    "route_id": "ws_pier_to_ck",
+    "stop_id": "ws_pier_to_ck",
+    "route_tc": "黃石碼頭 至 赤徑",
+    "route_en": "Wong Shek Pier to Chek Keng",
+    "from_tc": "黃石碼頭",
+    "to_tc": "赤徑",
+    "from_en": "Wong Shek Pier",
+    "to_en": "Chek Keng",
+    "from_lat": "22.43566335064106",
+    "from_long": "114.33719915224556",
+    "to_lat": "22.42229915083828",
+    "to_long": "114.35052762563647",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "10:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:55 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "10:35 AM",
+          "remark": " "
+        },
+        {
+          "time": "4:55 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "ck_to_klw": {
+    "company": "ferry",
+    "route_id": "ck_to_klw",
+    "stop_id": "ck_to_klw",
+    "route_tc": "赤徑 至 高流灣",
+    "route_en": "Chek Keng to Ko Lau Wan",
+    "from_tc": "赤徑",
+    "to_tc": "高流灣",
+    "from_en": "Chek Keng",
+    "to_en": "Ko Lau Wan",
+    "from_lat": "22.42229915083828",
+    "from_long": "114.35052762563647",
+    "to_lat": "22.458587076358103",
+    "to_long": "114.36055248381042",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:05 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "10:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:05 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "klw_to_tm": {
+    "company": "ferry",
+    "route_id": "klw_to_tm",
+    "stop_id": "klw_to_tm",
+    "route_tc": "高流灣 至 塔門",
+    "route_en": "Ko Lau Wan to Tap Mun",
+    "from_tc": "高流灣",
+    "to_tc": "塔門",
+    "from_en": "Ko Lau Wan",
+    "to_en": "Tap Mun",
+    "from_lat": "22.458587076358103",
+    "from_long": "114.36055248381042",
+    "to_lat": "22.470400374780674",
+    "to_long": "114.35863195505226",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:20 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:20 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "tm_to_lcc": {
+    "company": "ferry",
+    "route_id": "tm_to_lcc",
+    "stop_id": "tm_to_lcc",
+    "route_tc": "塔門 至 荔枝莊",
+    "route_en": "Tap Mun to Lai Chi Chong",
+    "from_tc": "塔門",
+    "to_tc": "荔枝莊",
+    "from_en": "Tap Mun",
+    "to_en": "Lai Chi Chong",
+    "from_lat": "22.470400374780674",
+    "from_long": "114.35863195505226",
+    "to_lat": "22.456848887826403",
+    "to_long": "114.29966773523833",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "11:10 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:45 PM",
+          "remark": "1"
+        },
+        {
+          "time": "5:30 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "lcc_to_sc": {
+    "company": "ferry",
+    "route_id": "lcc_to_sc",
+    "stop_id": "lcc_to_sc",
+    "route_tc": "荔枝莊 至 深涌",
+    "route_en": "Lai Chi Chong to Shum Chung",
+    "from_tc": "荔枝莊",
+    "to_tc": "深涌",
+    "from_en": "Lai Chi Chong",
+    "to_en": "Shum Chung",
+    "from_lat": "22.456848887826403",
+    "from_long": "114.29966773523833",
+    "to_lat": "22.440503959508433",
+    "to_long": "114.28165082164463",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "11:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "11:40 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:15 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "sc_to_mls": {
+    "company": "ferry",
+    "route_id": "sc_to_mls",
+    "stop_id": "sc_to_mls",
+    "route_tc": "深涌 至 馬料水",
+    "route_en": "Shum Chung to Ma Liu Shui",
+    "from_tc": "深涌",
+    "to_tc": "馬料水",
+    "from_en": "Shum Chung",
+    "to_en": "Ma Liu Shui",
+    "from_lat": "22.440503959508433",
+    "from_long": "114.28165082164463",
+    "to_lat": "22.41725406739455",
+    "to_long": "114.21425236355932",
+    "schedule": {
+      "星期一至星期五(公眾假期除外)": [
+        {
+          "time": "11:55 AM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、星期日及公眾假期": [
+        {
+          "time": "11:55 AM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:15 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "mls_to_tpc": {
+    "company": "ferry",
+    "route_id": "mls_to_tpc",
+    "stop_id": "mls_to_tpc",
+    "route_tc": "馬料水 至 東平洲",
+    "route_en": "Ma Liu Shui to Tung Ping Chau",
+    "from_tc": "馬料水",
+    "to_tc": "東平洲",
+    "from_en": "Ma Liu Shui",
+    "to_en": "Tung Ping Chau",
+    "from_lat": "22.417254055669588",
+    "from_long": "114.2142664709415",
+    "to_lat": "22.545239366082246",
+    "to_long": "114.43308046163537",
+    "schedule": {
+      "星期六(公眾假期除外)": [
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "3:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "tpc_to_mls": {
+    "company": "ferry",
+    "route_id": "tpc_to_mls",
+    "stop_id": "tpc_to_mls",
+    "route_tc": "東平洲 至 馬料水",
+    "route_en": "Tung Ping Chau to Ma Liu Shui",
+    "from_tc": "東平洲",
+    "to_tc": "馬料水",
+    "from_en": "Tung Ping Chau",
+    "to_en": "Ma Liu Shui",
+    "from_lat": "22.545239366082246",
+    "from_long": "114.43308046163537",
+    "to_lat": "22.417254055669588",
+    "to_long": "114.2142664709415",
+    "schedule": {
+      "星期六(公眾假期除外)": [
+        {
+          "time": "5:15 PM",
+          "remark": " "
+        }
+      ],
+      "星期日及公眾假期": [
+        {
+          "time": "5:15 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "tp_to_ws": {
+    "company": "ferry",
+    "route_id": "tp_to_ws",
+    "stop_id": "tp_to_ws",
+    "route_tc": "塔門 至 黃石",
+    "route_en": "Tap Mun to Wong Shek",
+    "from_tc": "塔門",
+    "to_tc": "黃石",
+    "from_en": "Tap Mun",
+    "to_en": "Wong Shek",
+    "from_lat": "22.470357070198986",
+    "from_long": "114.35862723282897",
+    "to_lat": "22.435772740140273",
+    "to_long": "114.33720020373234",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "7:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "1,2"
+        },
+        {
+          "time": "11:45 AM",
+          "remark": " "
+        },
+        {
+          "time": "1:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:45 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": "1,2"
+        },
+        {
+          "time": "6:00 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、日及公眾假期": [
+        {
+          "time": "8:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:00 AM",
+          "remark": "1,2"
+        },
+        {
+          "time": "11:00 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:00 PM",
+          "remark": " "
+        },
+        {
+          "time": "1:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:00 PM",
+          "remark": "2"
+        },
+        {
+          "time": "3:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:20 PM",
+          "remark": "1,2"
+        },
+        {
+          "time": "5:05 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:05 PM",
+          "remark": " "
+        }
+      ]
+    }
+  },
+  "ws_to_tp": {
+    "company": "ferry",
+    "route_id": "ws_to_tp",
+    "stop_id": "ws_to_tp",
+    "route_tc": "黃石 至 塔門",
+    "route_en": "Wong Shek to Tap Mun",
+    "from_tc": "黃石",
+    "to_tc": "塔門",
+    "from_en": "Wong Shek",
+    "to_en": "Tap Mun",
+    "from_lat": "22.435772740140273",
+    "from_long": "114.33720020373234",
+    "to_lat": "22.470357070198986",
+    "to_long": "114.35862723282897",
+    "schedule": {
+      "星期一至五(公眾假期除外)": [
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:35 AM",
+          "remark": "1,2"
+        },
+        {
+          "time": "12:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:55 PM",
+          "remark": "1,2"
+        },
+        {
+          "time": "6:30 PM",
+          "remark": " "
+        }
+      ],
+      "星期六、日及公眾假期": [
+        {
+          "time": "8:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "9:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "10:35 AM",
+          "remark": "1,2"
+        },
+        {
+          "time": "11:30 AM",
+          "remark": " "
+        },
+        {
+          "time": "12:30 PM",
+          "remark": "2"
+        },
+        {
+          "time": "1:30 PM",
+          "remark": " "
+        },
+        {
+          "time": "2:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "3:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "4:55 PM",
+          "remark": "1,2"
+        },
+        {
+          "time": "5:35 PM",
+          "remark": " "
+        },
+        {
+          "time": "6:35 PM",
+          "remark": " "
+        }
+      ]
+    }
+  }
+}

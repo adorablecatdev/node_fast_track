@@ -1,0 +1,719 @@
+{
+  "中環 至 坪洲": {
+    "from_tc": "中環",
+    "to_tc": "坪洲",
+    "from_en": "Central",
+    "to_en": "Peng Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "坪洲 至 中環": {
+    "from_tc": "坪洲",
+    "to_tc": "中環",
+    "from_en": "Peng Chau",
+    "to_en": "Central",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "坪洲 至 喜靈洲": {
+    "from_tc": "坪洲",
+    "to_tc": "喜靈洲",
+    "from_en": "Peng Chau",
+    "to_en": "Hei Ling Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "喜靈洲 至 坪洲": {
+    "from_tc": "喜靈洲",
+    "to_tc": "坪洲",
+    "from_en": "Hei Ling Chau",
+    "to_en": "Peng Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "中環 至 榕樹灣": {
+    "from_tc": "中環",
+    "to_tc": "榕樹灣",
+    "from_en": "Central",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "榕樹灣 至 中環": {
+    "from_tc": "榕樹灣",
+    "to_tc": "中環",
+    "from_en": "Yung Shue Wan",
+    "to_en": "Central",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "中環 至 索罟灣": {
+    "from_tc": "中環",
+    "to_tc": "索罟灣",
+    "from_en": "Central",
+    "to_en": "Sok Kwu Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "索罟灣 至 中環": {
+    "from_tc": "索罟灣",
+    "to_tc": "中環",
+    "from_en": "Sok Kwu Wan",
+    "to_en": "Central",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "中環 至 梅窩": {
+    "from_tc": "中環",
+    "to_tc": "梅窩",
+    "from_en": "Central",
+    "to_en": "Mui Wo",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "梅窩 至 中環": {
+    "from_tc": "梅窩",
+    "to_tc": "中環",
+    "from_en": "Central",
+    "to_en": "Mui Wo",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "長洲 至 梅窩": {
+    "from_tc": "長洲",
+    "to_tc": "梅窩",
+    "from_en": "Chueung Chau",
+    "to_en": "Mui Wo",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "梅窩 至 坪洲": {
+    "from_tc": "梅窩",
+    "to_tc": "坪洲",
+    "from_en": "Mui Wo",
+    "to_en": "Peng Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "坪洲 至 梅窩": {
+    "from_tc": "坪洲",
+    "to_tc": "梅窩",
+    "from_en": "Peng Chau",
+    "to_en": "Mui Wo",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "梅窩 至 芝蔴灣": {
+    "from_tc": "梅窩",
+    "to_tc": "芝蔴灣",
+    "from_en": "Mui Wo",
+    "to_en": "Chi Ma Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "芝蔴灣 至 長洲": {
+    "from_tc": "芝蔴灣",
+    "to_tc": "長洲",
+    "from_en": "Chi Ma Wan",
+    "to_en": "Chueung Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "長洲 至 芝蔴灣": {
+    "from_tc": "長洲",
+    "to_tc": "芝蔴灣",
+    "from_en": "Chueung Chau",
+    "to_en": "Chi Ma Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "芝蔴灣 至 梅窩": {
+    "from_tc": "芝蔴灣",
+    "to_tc": "梅窩",
+    "from_en": "Chi Ma Wan",
+    "to_en": "Mui Wo",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "梅窩 至 長洲": {
+    "from_tc": "梅窩",
+    "to_tc": "長洲",
+    "from_en": "Mui Wo",
+    "to_en": "Chueung Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "中環 至 長洲": {
+    "from_tc": "中環",
+    "to_tc": "長洲",
+    "from_en": "Central",
+    "to_en": "Chueung Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "長洲 至 中環": {
+    "from_tc": "長洲",
+    "to_tc": "中環",
+    "from_en": "Chueung Chau",
+    "to_en": "Central",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "中環 至 愉景灣": {
+    "from_tc": "中環",
+    "to_tc": "愉景灣",
+    "from_en": "Central",
+    "to_en": "Discovery Bay",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "愉景灣 至 中環": {
+    "from_tc": "愉景灣",
+    "to_tc": "中環",
+    "from_en": "Discovery Bay",
+    "to_en": "Central",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "馬灣 至 中環": {
+    "from_tc": "馬灣",
+    "to_tc": "中環",
+    "from_en": "Ma Wan",
+    "to_en": "Central",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "中環 至 馬灣": {
+    "from_tc": "中環",
+    "to_tc": "馬灣",
+    "from_en": "Central",
+    "to_en": "Ma Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "北角 至 紅磡": {
+    "from_tc": "北角",
+    "to_tc": "紅磡",
+    "from_en": "North Point",
+    "to_en": "Hung Hom",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "紅磡 至 北角": {
+    "from_tc": "紅磡",
+    "to_tc": "北角",
+    "from_en": "Hung Hom",
+    "to_en": "North Point",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "北角 至 九龍城": {
+    "from_tc": "北角",
+    "to_tc": "九龍城",
+    "from_en": "North Point",
+    "to_en": "Kowloon City",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "九龍城 至 北角": {
+    "from_tc": "九龍城",
+    "to_tc": "北角",
+    "from_en": "Kowloon City",
+    "to_en": "North Point",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "北角 至 觀塘": {
+    "from_tc": "北角",
+    "to_tc": "觀塘",
+    "from_en": "North Point",
+    "to_en": "Kwun Tong",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "觀塘 至 北角": {
+    "from_tc": "觀塘",
+    "to_tc": "北角",
+    "from_en": "Kwun Tong",
+    "to_en": "North Point",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "北角 經 觀塘": {
+    "from_tc": "北角 經 觀塘",
+    "from_en": "North Point",
+    "to_en": "Kwun Tong",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "觀塘 至 啟德": {
+    "from_tc": "觀塘",
+    "to_tc": "啟德",
+    "from_en": "Kwun Tong",
+    "to_en": "Kai Tak",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "啟德 至 觀塘": {
+    "from_tc": "啟德",
+    "to_tc": "觀塘",
+    "from_en": "Kai Tak",
+    "to_en": "Kwun Tong",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "西灣河 至 觀塘": {
+    "from_tc": "西灣河",
+    "to_tc": "觀塘",
+    "from_en": "Sai Wan Ho",
+    "to_en": "Kwun Tong",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "觀塘 至 西灣河": {
+    "from_tc": "觀塘",
+    "to_tc": "西灣河",
+    "from_en": "Kwun Tong",
+    "to_en": "Sai Wan Ho",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "西灣河 至 三家村": {
+    "from_tc": "西灣河",
+    "to_tc": "三家村",
+    "from_en": "Sai Wan Ho",
+    "to_en": "Sam Ka Tsuen",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "三家村 至 西灣河": {
+    "from_tc": "三家村",
+    "to_tc": "西灣河",
+    "from_en": "Sam Ka Tsuen",
+    "to_en": "Sai Wan Ho",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "梅窩 至 愉景灣 經 坪洲": {
+    "from_tc": "梅窩",
+    "to_tc": "愉景灣 經 坪洲",
+    "from_en": "Mui Wo",
+    "to_en": "Discovery Bay",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "坪洲 至 愉景灣": {
+    "from_tc": "坪洲",
+    "to_tc": "愉景灣",
+    "from_en": "Peng Chau",
+    "to_en": "Discovery Bay",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "愉景灣 至梅窩 經 坪洲": {
+    "from_tc": "愉景灣 至梅窩 經 坪洲",
+    "from_en": "Discovery Bay",
+    "to_en": "Mui Wo",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "愉景灣 至 梅窩": {
+    "from_tc": "愉景灣",
+    "to_tc": "梅窩",
+    "from_en": "Discovery Bay",
+    "to_en": "Mui Wo",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "梅窩 至 愉景灣": {
+    "from_tc": "梅窩",
+    "to_tc": "愉景灣",
+    "from_en": "Mui Wo",
+    "to_en": "Discovery Bay",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "屯門 至 大澳": {
+    "from_tc": "屯門",
+    "to_tc": "大澳",
+    "from_en": "Tuen Mun",
+    "to_en": "Tai O",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "東涌 至 大澳": {
+    "from_tc": "東涌",
+    "to_tc": "大澳",
+    "from_en": "Tung Chung",
+    "to_en": "Tai O",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "沙螺灣 至 大澳": {
+    "from_tc": "沙螺灣",
+    "to_tc": "大澳",
+    "from_en": "Sha Lo Wan",
+    "to_en": "Tai O",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "大澳 至 屯門": {
+    "from_tc": "大澳",
+    "to_tc": "屯門",
+    "from_en": "Tai O",
+    "to_en": "Tuen Mun",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "沙螺灣 至 屯門": {
+    "from_tc": "沙螺灣",
+    "to_tc": "屯門",
+    "from_en": "Sha Lo Wan",
+    "to_en": "Tuen Mun",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "東涌 至 屯門": {
+    "from_tc": "東涌",
+    "to_tc": "屯門",
+    "from_en": "Tung Chung",
+    "to_en": "Tuen Mun",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "香港仔 至 索罟灣": {
+    "from_tc": "香港仔",
+    "to_tc": "索罟灣",
+    "from_en": "Aberdeen",
+    "to_en": "Sok Kwu Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "索罟灣 至 香港仔": {
+    "from_tc": "索罟灣",
+    "to_tc": "香港仔",
+    "from_en": "Sok Kwu Wan",
+    "to_en": "Aberdeen",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "香港仔至 榕樹灣": {
+    "from_tc": "香港仔至 榕樹灣",
+    "from_en": "Aberdeen",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "北角村 至 榕樹灣": {
+    "from_tc": "北角村",
+    "to_tc": "榕樹灣",
+    "from_en": "Pak Kok Tsuen",
+    "to_en": "Yung Shue Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "榕樹灣 至 香港仔": {
+    "from_tc": "榕樹灣",
+    "to_tc": "香港仔",
+    "from_en": "Yung Shue Wan",
+    "to_en": "Aberdeen",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "北角村 至 香港仔": {
+    "from_tc": "北角村",
+    "to_tc": "香港仔",
+    "from_en": "Pak Kok Tsuen",
+    "to_en": "Aberdeen",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "紅磡 至 中環": {
+    "from_tc": "紅磡",
+    "to_tc": "中環",
+    "from_en": "Hung Hom",
+    "to_en": "Central",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "中環 至 紅磡": {
+    "from_tc": "中環",
+    "to_tc": "紅磡",
+    "from_en": "Central",
+    "to_en": "Hung Hom",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "馬料水 至 深涌": {
+    "from_tc": "馬料水",
+    "to_tc": "深涌",
+    "from_en": "Ma Liu Shui",
+    "to_en": "Shum Chung",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "深涌 至 荔枝莊": {
+    "from_tc": "深涌",
+    "to_tc": "荔枝莊",
+    "from_en": "Shum Chung",
+    "to_en": "Lai Chi Chong",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "荔枝莊 至 塔門": {
+    "from_tc": "荔枝莊",
+    "to_tc": "塔門",
+    "from_en": "Lai Chi Chong",
+    "to_en": "Tap Mun",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "塔門 至 高流灣": {
+    "from_tc": "塔門",
+    "to_tc": "高流灣",
+    "from_en": "Tap Mun",
+    "to_en": "Ko Lau Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "高流灣 至 赤徑": {
+    "from_tc": "高流灣",
+    "to_tc": "赤徑",
+    "from_en": "Ko Lau Wan",
+    "to_en": "Chek Keng",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "赤徑 至 黃石碼頭": {
+    "from_tc": "赤徑",
+    "to_tc": "黃石碼頭",
+    "from_en": "Chek Keng",
+    "to_en": "Wong Shek Pier",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "黃石碼頭 至 赤徑": {
+    "from_tc": "黃石碼頭",
+    "to_tc": "赤徑",
+    "from_en": "Wong Shek Pier",
+    "to_en": "Chek Keng",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "赤徑 至 高流灣": {
+    "from_tc": "赤徑",
+    "to_tc": "高流灣",
+    "from_en": "Chek Keng",
+    "to_en": "Ko Lau Wan",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "高流灣 至 塔門": {
+    "from_tc": "高流灣",
+    "to_tc": "塔門",
+    "from_en": "Ko Lau Wan",
+    "to_en": "Tap Mun",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "塔門 至 荔枝莊": {
+    "from_tc": "塔門",
+    "to_tc": "荔枝莊",
+    "from_en": "Tap Mun",
+    "to_en": "Lai Chi Chong",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "荔枝莊 至 深涌": {
+    "from_tc": "荔枝莊",
+    "to_tc": "深涌",
+    "from_en": "Lai Chi Chong",
+    "to_en": "Shum Chung",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "深涌 至 馬料水": {
+    "from_tc": "深涌",
+    "to_tc": "馬料水",
+    "from_en": "Shum Chung",
+    "to_en": "Ma Liu Shui",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "馬料水 至 東平洲": {
+    "from_tc": "馬料水",
+    "to_tc": "東平洲",
+    "from_en": "Ma Liu Shui",
+    "to_en": "Tung Ping Chau",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "東平洲 至 馬料水": {
+    "from_tc": "東平洲",
+    "to_tc": "馬料水",
+    "from_en": "Tung Ping Chau",
+    "to_en": "Ma Liu Shui",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "塔門 至 黃石": {
+    "from_tc": "塔門",
+    "to_tc": "黃石",
+    "from_en": "Tap Mun",
+    "to_en": "Wong Shek",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  },
+  "黃石 至 塔門": {
+    "from_tc": "黃石",
+    "to_tc": "塔門",
+    "from_en": "Wong Shek",
+    "to_en": "Tap Mun",
+    "from_lat": "",
+    "from_long": "",
+    "to_lat": "",
+    "to_long": ""
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "company": "mtr",
+    "id": "mtr_AEL",
+    "route": "AEL",
+    "from_en": "AsiaWorld-Expo",
+    "from_tc": "博覽館",
+    "to_en": "Hong Kong",
+    "to_tc": "香港"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_DRL",
+    "route": "DRL",
+    "from_en": "Sunny Bay",
+    "from_tc": "欣澳",
+    "to_en": "Disneyland Resort",
+    "to_tc": "迪士尼"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_EAL",
+    "route": "EAL",
+    "from_en": "Lo Wu/Lok Ma Chau",
+    "from_tc": "羅湖/落馬洲",
+    "to_en": "Admiralty",
+    "to_tc": "金鐘"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_ISL",
+    "route": "ISL",
+    "from_en": "Chai Wan",
+    "from_tc": "柴灣",
+    "to_en": "Kennedy Town",
+    "to_tc": "堅尼地城"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_KTL",
+    "route": "KTL",
+    "from_en": "Tiu Keng Leng",
+    "from_tc": "調景嶺",
+    "to_en": "Whampoa",
+    "to_tc": "黃埔"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_TML",
+    "route": "TML",
+    "from_en": "Wu Kai Sha",
+    "from_tc": "烏溪沙",
+    "to_en": "Tuen Mun",
+    "to_tc": "屯門"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_TCL",
+    "route": "TCL",
+    "from_en": "Tung Chung",
+    "from_tc": "東涌",
+    "to_en": "Hong Kong",
+    "to_tc": "香港"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_TKL",
+    "route": "TKL",
+    "from_en": "Po Lam/LOHAS Park",
+    "from_tc": "寶琳/康城",
+    "to_en": "North Point",
+    "to_tc": "北角"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_TWL",
+    "route": "TWL",
+    "from_en": "Tsuen Wan",
+    "from_tc": "荃灣",
+    "to_en": "Central",
+    "to_tc": "中環"
+  },
+  {
+    "company": "mtr",
+    "id": "mtr_SIL",
+    "route": "SIL",
+    "from_en": "Admiralty",
+    "from_tc": "金鐘",
+    "to_en": "South Horizons",
+    "to_tc": "海怡半島"
+  }
+]
