@@ -8,6 +8,13 @@ async function downloadCsvAndConvertJsonUtf16(url, filePath)
 {
     try
     {
+        // Ensure the directory exists
+        const dirPath = path.dirname(filePath);
+        if (!fs.existsSync(dirPath))
+        {
+            fs.mkdirSync(dirPath, { recursive: true });
+        }
+
         const response = await axios.get(url, { responseType: 'arraybuffer' });
         const csvData = Buffer.from(response.data).toString('utf16le');
         const jsonArray = await csvtojson().fromString(csvData);
@@ -39,7 +46,8 @@ async function downloadCsvAndConvertJsonUtf16(url, filePath)
     }
     catch (error) 
     {
-        console.error('Error:', error.message);
+        // console.error('Error:', error.message);
+        // throw error;
     }
 }
 
@@ -47,6 +55,13 @@ async function downloadCsvAndConvertJson(url, filePath)
 {
     try
     {
+        // Ensure the directory exists
+        const dirPath = path.dirname(filePath);
+        if (!fs.existsSync(dirPath))
+        {
+            fs.mkdirSync(dirPath, { recursive: true });
+        }
+
         const response = await axios.get(url);
         const csvData = Buffer.from(response.data).toString('utf-8');
 
@@ -58,7 +73,8 @@ async function downloadCsvAndConvertJson(url, filePath)
     }
     catch (error) 
     {
-        console.error('Error:', error.message);
+        // console.error('Error:', error.message);
+        // throw error; // Add error propagation
     }
 }
 
@@ -66,6 +82,13 @@ async function downloadJSONFile(url, filePath)
 {
     try
     {
+        // Ensure the directory exists
+        const dirPath = path.dirname(filePath);
+        if (!fs.existsSync(dirPath))
+        {
+            fs.mkdirSync(dirPath, { recursive: true });
+        }
+
         const response = await axios.get(url);
         const jsonData = response.data;
         const jsonString = JSON.stringify(jsonData, null, 2);
@@ -76,6 +99,7 @@ async function downloadJSONFile(url, filePath)
     catch (error)
     {
         console.error('Error during download or write: ' + filePath);
+        // throw error; // Re-throw the error to handle it in the calling code
     }
 }
 
@@ -85,12 +109,11 @@ async function returnJson(url)
     {
         const response = await axios.get(url);
         const jsonData = response.data;
-
         return jsonData;
     }
     catch (error)
     {
-        console.error('Error during download or write: ' + filePath);
+        console.error('Error fetching JSON:', error.message);
         return {};
     }
 }
@@ -113,6 +136,13 @@ async function saveJSONToFile(filePath, data)
 {
     try
     {
+        // Ensure the directory exists
+        const dirPath = path.dirname(filePath);
+        if (!fs.existsSync(dirPath))
+        {
+            fs.mkdirSync(dirPath, { recursive: true });
+        }
+
         const jsonData = JSON.stringify(data, null, 2);
         await fs.promises.writeFile(filePath, jsonData, 'utf-8', { flag: 'w' });
         console.log('JSON file saved successfully: ' + filePath);
@@ -120,6 +150,7 @@ async function saveJSONToFile(filePath, data)
     catch (error)
     {
         console.error('Error saving JSON file:', error);
+        // throw error; // Re-throw the error to handle it in the calling code
     }
 }
 

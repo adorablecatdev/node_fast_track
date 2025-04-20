@@ -5,7 +5,7 @@ import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./src/functions/mt
 import { downloadGmbRouteList, downloadGmbRouteListGmb, downloadRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb, parseRouteListGmb, parseRouteStopListGmb } from "./src/functions/gmb.js";
 import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
 import { generateVersion, parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList, parseUniqueRouteStopListByLocation } from "./src/functions/parseFinal.js";
-import { processTimetable } from "./src/functions/timetable.js";
+import { downloadTimetable, processTimetable } from "./src/functions/timetable.js";
 import { createMtrRouteList, downloadMtrRoutStopList, getAllMtrFirstAndLastTrain } from "./src/functions/functions_mtr.js";
 import { downloadFerryJson, parseRouteStopListFerry } from "./src/functions/ferry.js";
 
@@ -92,6 +92,7 @@ async function parseFinal()
     await parseUniqueRouteMap();
     await parseUniqueRouteStopList();
     await parseUniqueRouteStopListByLocation();
+    await downloadTimetable();
     await processTimetable();
     await generateVersion();
 
