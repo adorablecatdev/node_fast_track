@@ -228,14 +228,25 @@ async function getAllMtrFirstAndLastTrain()
     {
         for (let i = 1; i <= 120; i++)
         {
-            console.log(`Processing station ${i} en...`);
-            const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'en');
+            console.log(`Processing station ${i} tc...`);
+            const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'tc');
 
             if (schedule_en && schedule_en.length > 0)
             {
                 result.push(...schedule_en);
             }
         }
+
+        // for (let i = 1; i <= 120; i++)
+        // {
+        //     console.log(`Processing station ${i} en...`);
+        //     const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'en');
+
+        //     if (schedule_en && schedule_en.length > 0)
+        //     {
+        //         result.push(...schedule_en);
+        //     }
+        // }
 
         const resultObj = {};
 
