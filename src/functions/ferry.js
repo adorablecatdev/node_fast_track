@@ -1,5 +1,5 @@
 import { downloadCsvAndConvertJson, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
-import { ferryCoordination } from "./ferryMetaData.js";
+import { ferryCoordination } from "../metaData/ferryMetaData.js";
 
 const downloadList = [
     {

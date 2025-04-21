@@ -1,4 +1,4 @@
-import { mtrRouteNameEn, mtrRouteNameTc, stationLocation } from "./mtrMetaData.js";
+import { mtrRouteNameEn, mtrRouteNameTc, stationLocation } from "../metaData/mtrMetaData.js";
 import { downloadCsvAndConvertJson, downloadJSONFile, loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 import * as cheerio from 'cheerio';
 import * as puppeteer from 'puppeteer';
@@ -122,11 +122,36 @@ async function createMtrRouteList()
 async function getMtrStationFirstAndLastTrain(stopNo, lang)
 {
     const url = `https://www.mtr.com.hk/en/customer/services/service_hours_search.php?query_type=search&station=${stopNo}`;
-    const browser = await puppeteer.launch();
-
+    // Configure stealth plugin
+    const browser = await puppeteer.launch({
+        headless: true,
+        args: [
+            '--no-sandbox',
+            '--disable-setuid-sandbox',
+            '--disable-dev-shm-usage',
+            '--disable-accelerated-2d-canvas',
+            '--disable-gpu'
+        ]
+    });
     try
     {
         const page = await browser.newPage();
+
+        // Set a realistic user agent
+        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
+
+        // Set additional headers
+        await page.setExtraHTTPHeaders({
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Accept-Encoding': 'gzip, deflate, br',
+            'Connection': 'keep-alive',
+            'Upgrade-Insecure-Requests': '1',
+            'Sec-Fetch-Dest': 'document',
+            'Sec-Fetch-Mode': 'navigate',
+            'Sec-Fetch-Site': 'none',
+            'Sec-Fetch-User': '?1'
+        });
 
         // Go to page and wait for it to load
         await page.goto(url, { waitUntil: 'networkidle0' });
@@ -144,7 +169,7 @@ async function getMtrStationFirstAndLastTrain(stopNo, lang)
 
         // Get the page content
         const content = await page.content();
-        console.log(content);
+        // console.log(content);
 
         // Parse with cheerio
         const $ = cheerio.load(content);
@@ -186,7 +211,7 @@ async function getMtrStationFirstAndLastTrain(stopNo, lang)
     }
     catch (error)
     {
-        console.error(`Error fetching page ${stopNo} ${lang}:`, error);
+        console.error(`Error fetching page ${stopNo} ${lang}:`);
         return [];
     }
     finally
@@ -203,14 +228,6 @@ async function getAllMtrFirstAndLastTrain()
     {
         for (let i = 1; i <= 120; i++)
         {
-            // console.log(`Processing station ${i} tc...`);
-            // const schedule_tc = await getMtrStationFirstAndLastTrain(i.toString(), 'tc');
-
-            // if (schedule_tc && schedule_tc.length > 0)
-            // {
-            //     result.push(...schedule_tc);
-            // }
-
             console.log(`Processing station ${i} en...`);
             const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'en');
 
@@ -222,7 +239,7 @@ async function getAllMtrFirstAndLastTrain()
 
         const resultObj = {};
 
-        for(var j=0 ; j<result.length ; j++)
+        for (var j = 0; j < result.length; j++)
         {
             if (result[j]?.['station'] in resultObj == false)
             {

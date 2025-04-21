@@ -6,7 +6,7 @@ import { downloadGmbRouteList, downloadGmbRouteListGmb, downloadRouteStopListGmb
 import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
 import { generateVersion, parseUniqueRouteList, parseUniqueRouteMap, parseUniqueRouteStopList, parseUniqueRouteStopListByLocation } from "./src/functions/parseFinal.js";
 import { downloadTimetable, processTimetable } from "./src/functions/timetable.js";
-import { createMtrRouteList, downloadMtrRoutStopList, getAllMtrFirstAndLastTrain } from "./src/functions/functions_mtr.js";
+import { createMtrRouteList, downloadMtrRoutStopList, getAllMtrFirstAndLastTrain } from "./src/functions/mtr.js";
 import { downloadFerryJson, parseRouteStopListFerry } from "./src/functions/ferry.js";
 
 
@@ -74,7 +74,7 @@ async function mtr()
 {
     await downloadMtrRoutStopList();
     await createMtrRouteList();
-    // await getAllMtrFirstAndLastTrain();
+    await getAllMtrFirstAndLastTrain();
 
     console.log('MTR Finished');
 }
