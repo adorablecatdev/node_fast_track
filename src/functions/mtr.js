@@ -222,7 +222,8 @@ async function getMtrStationFirstAndLastTrain(stopNo, lang)
 
 async function getAllMtrFirstAndLastTrain()
 {
-    const result = [];
+    const result_tc = [];
+    const result_en = [];
 
     try
     {
@@ -233,31 +234,41 @@ async function getAllMtrFirstAndLastTrain()
 
             if (schedule_en && schedule_en.length > 0)
             {
-                result.push(...schedule_en);
+                result_tc.push(...schedule_en);
             }
         }
 
-        // for (let i = 1; i <= 120; i++)
-        // {
-        //     console.log(`Processing station ${i} en...`);
-        //     const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'en');
+        for (let i = 1; i <= 120; i++)
+        {
+            console.log(`Processing station ${i} en...`);
+            const schedule_en = await getMtrStationFirstAndLastTrain(i.toString(), 'en');
 
-        //     if (schedule_en && schedule_en.length > 0)
-        //     {
-        //         result.push(...schedule_en);
-        //     }
-        // }
+            if (schedule_en && schedule_en.length > 0)
+            {
+                result_en.push(...schedule_en);
+            }
+        }
 
         const resultObj = {};
 
-        for (var j = 0; j < result.length; j++)
+        for (var j = 0; j < result_tc.length; j++)
         {
-            if (result[j]?.['station'] in resultObj == false)
+            if (result_tc[j]?.['station'] in resultObj == false)
             {
-                resultObj[result[j]?.['station']] = [];
+                resultObj[result_tc[j]?.['station']] = [];
             }
 
-            resultObj[result[j]?.['station']].push(result[j]);
+            resultObj[result_tc[j]?.['station']].push(result_tc[j]);
+        }
+
+        for (var j = 0; j < result_en.length; j++)
+        {
+            if (result_en[j]?.['station'] in resultObj == false)
+            {
+                resultObj[result_en[j]?.['station']] = [];
+            }
+
+            resultObj[result_en[j]?.['station']].push(result_en[j]);
         }
 
         const filePath = `./download/mtr/output/mtrTimetable.json`;
