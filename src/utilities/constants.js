@@ -1,4 +1,4 @@
-const coopRoutes = {
+const CoopRoutes = {
     "102": "", "102P": "", "103": "", "107": "", "107P": "", "117": "", "118": "", "118P": "", "170": "",
     "171": "", "171A": "", "171P": "", "182": "", "182X": "", "307": "", "307A": "", "307P": "", "606": "", "606A": "",
     "606X": "", "619": "", "619P": "", "619X": "", "621": "", "671": "", "671X": "", "678": "", "681": "", "681P": "",
@@ -9,11 +9,62 @@ const coopRoutes = {
     "980X": "", "982X": "", "985": "", "985A": "", "985B": ""
 };
 
-const reverseDir = {
+const ReverseDir = {
     "103": "", "107": "", "117": "", "118": "", "170": "", "171": "", "182": "", "606": "", "606X": "",
     "619": "", "671": "", "690": "", "982X": "", "101": "", "101X": "", "106": "", "106P": "", "109": "", "111": "",
     "113": "", "601P": "", "680": "", "905": "", "904": "", "680X": "", "641": "",
     "601P": "", "601": "", "116": "", "115": "",
 };
 
-export { coopRoutes, reverseDir }
+const CompanyType = {
+    KMB: "KMB",
+    KMBCTB: "KMBCTB",
+    CTB: "CTB",
+    NLB: "NLB",
+    MTRBUS: "MTRBUS",
+    FERRY: "FERRY",
+    MTR: "MTR",
+    GMB: "GMB"
+}
+
+const CompanyName_tc = {
+    KMB: "九巴",
+    KMBCTB: "九巴/城巴",
+    CTB: "城巴",
+    NLB: "大嶼山巴士",    
+    MTRBUS: "港鐵巴士",
+    FERRY: "渡輪",
+    MTR: "港鐵",
+    GMB: "小巴"
+};
+
+const CompanyName_sc = {
+    KMB: "九巴",
+    KMBCTB: "九巴/城巴",
+    CTB: "城巴",
+    NLB: "大屿山巴士",    
+    MTRBUS: "港铁巴士",
+    FERRY: "渡轮",
+    MTR: "港铁",
+    GMB: "小巴"
+};
+
+const CompanyName_en = {
+    KMB: "KMB",
+    KMBCTB: "KMB/CTB",
+    CTB: "CTB",
+    NLB: "NLB",    
+    MTRBUS: "MTR Bus",
+    FERRY: "Ferry",
+    MTR: "MTR",
+    GMB: "GMB"
+};
+
+const CompanyNameMap = {
+    'tc': CompanyName_tc,
+    'sc': CompanyName_sc,
+    'en': CompanyName_en
+}
+
+
+export { CoopRoutes, ReverseDir, CompanyType, CompanyName_tc, CompanyName_sc, CompanyName_en, CompanyNameMap }

@@ -1,4 +1,4 @@
-import { coopRoutes, reverseDir } from "../utilities/constants.js";
+import { CoopRoutes, ReverseDir } from "../utilities/constants.js";
 import { loadJSONFromFile, saveJSONToFile } from "../utilities/file_management.js";
 import { findNearestCoopStop } from "../utilities/location.js";
 
@@ -16,7 +16,7 @@ async function parseJsonKmbCtb()
     {
         const currRouteList = routeStopListKmb[key];
         
-        if (currRouteList[0]['route'] in coopRoutes)
+        if (currRouteList[0]['route'] in CoopRoutes)
         {
             const newArray = [];
 
@@ -26,7 +26,7 @@ async function parseJsonKmbCtb()
                 var ctbRouteStopList = [];
                 var dir = currStop['dir'];
 
-                if (currStop['route'] in reverseDir)
+                if (currStop['route'] in ReverseDir)
                 {
                     dir = currStop['dir'] == 'I' ? 'O' : 'I';
                     ctbRouteStopList = routeStopListCtb[`kmbctb_${currStop['route']}_${dir}`];
@@ -51,7 +51,7 @@ async function parseJsonKmbCtb()
     await saveJSONToFile(saveFilePath, routeStopListCoop);
 }
 
-async function deleteNonCoop(company)
+async function deleteCoopRoutes(company)
 {
     const readFilePath1 = `./download/${company}/output/routeStopList_${company}.json`;
     const routeStopList = await loadJSONFromFile(readFilePath1);
@@ -59,7 +59,7 @@ async function deleteNonCoop(company)
     const newRouteStopList = {}
     for (const key in routeStopList)
     {
-        if (routeStopList[key][0]['route'] in coopRoutes == false)
+        if (routeStopList[key][0]['route'] in CoopRoutes == false)
         {
             newRouteStopList[key] = routeStopList[key]
         }
@@ -69,4 +69,4 @@ async function deleteNonCoop(company)
     await saveJSONToFile(saveFilePath, newRouteStopList);
 }
 
-export { parseJsonKmbCtb, deleteNonCoop }
+export { parseJsonKmbCtb, deleteCoopRoutes }

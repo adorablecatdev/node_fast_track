@@ -1,6 +1,6 @@
 import { downloadRouteListCtb, downloadRouteStopCtb, downloadStopCtb, parseJsonCtb } from "./src/functions/ctb.js";
 import { downloadRouteListKmb, downloadRouteStopListKmb, downloadStopListKmb, parseJsonKmb, } from "./src/functions/kmb.js";
-import { deleteNonCoop, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
+import { deleteCoopRoutes, parseJsonKmbCtb } from "./src/functions/kmbctb.js";
 import { downloadRouteStopListMtrBus, parseJsonMtrBus } from "./src/functions/mtrbus.js";
 import { downloadGmbRouteList, downloadGmbRouteListGmb, downloadRouteStopListGmb, downloadStopGmb, mergeStopCoordinateToRouteStopGmb, parseRouteListGmb, parseRouteStopListGmb } from "./src/functions/gmb.js";
 import { downloadRouteListNlb, downloadRouteStopNlb, parseJsonNlb } from "./src/functions/nlb.js";
@@ -12,9 +12,9 @@ import { downloadFerryJson, parseRouteStopListFerry } from "./src/functions/ferr
 
 async function ctb()
 {
-    await downloadRouteListCtb();
-    await downloadRouteStopCtb();
-    await downloadStopCtb();
+    // await downloadRouteListCtb();
+    // await downloadRouteStopCtb();
+    // await downloadStopCtb();
     await parseJsonCtb();
 
     console.log('CTB Finished');
@@ -22,10 +22,10 @@ async function ctb()
 
 async function kmb()
 {
-    await downloadRouteListKmb();
-    await downloadRouteStopListKmb();
-    await new Promise((resolve) => setTimeout(resolve, 5000));
-    await downloadStopListKmb();
+    // await downloadRouteListKmb();
+    // await downloadRouteStopListKmb();
+    // await new Promise((resolve) => setTimeout(resolve, 5000));
+    // await downloadStopListKmb();
     await parseJsonKmb();
 
     console.log('KMB Finished');
@@ -34,8 +34,8 @@ async function kmb()
 async function kmbctb()
 {
     await parseJsonKmbCtb();
-    await deleteNonCoop('kmb');
-    await deleteNonCoop('ctb');
+    await deleteCoopRoutes('kmb');
+    await deleteCoopRoutes('ctb');
 
     console.log('KMBCTB Finished');
 }
