@@ -12,9 +12,9 @@ import { downloadFerryJson, parseRouteStopListFerry } from "./src/functions/ferr
 
 async function ctb()
 {
-    // await downloadRouteListCtb();
-    // await downloadRouteStopCtb();
-    // await downloadStopCtb();
+    await downloadRouteListCtb();
+    await downloadRouteStopCtb();
+    await downloadStopCtb();
     await parseJsonCtb();
 
     console.log('CTB Finished');
@@ -22,10 +22,10 @@ async function ctb()
 
 async function kmb()
 {
-    // await downloadRouteListKmb();
-    // await downloadRouteStopListKmb();
-    // await new Promise((resolve) => setTimeout(resolve, 5000));
-    // await downloadStopListKmb();
+    await downloadRouteListKmb();
+    await downloadRouteStopListKmb();
+    await new Promise((resolve) => setTimeout(resolve, 5000));
+    await downloadStopListKmb();
     await parseJsonKmb();
 
     console.log('KMB Finished');

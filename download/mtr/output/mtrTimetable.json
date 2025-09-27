@@ -3040,6 +3040,43 @@
       "station": "Lai Chi Kok"
     }
   ],
+  "Mei Foo": [
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Central",
+      "firstTrain": "0610",
+      "lastTrain": "0040",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tsuen Wan Line",
+      "to": "Tsuen Wan",
+      "firstTrain": "0625",
+      "lastTrain": "0113",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Wu Kai Sha",
+      "firstTrain": "0612",
+      "lastTrain": "0036",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Tuen Mun",
+      "firstTrain": "0604",
+      "lastTrain": "0043",
+      "station": "Mei Foo"
+    },
+    {
+      "line": "Tuen Ma Line",
+      "to": "Hung Hom",
+      "firstTrain": "0612",
+      "lastTrain": "0042",
+      "station": "Mei Foo"
+    }
+  ],
   "Lai King": [
     {
       "line": "Tung Chung Line",
